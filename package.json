@@ -8,7 +8,7 @@
     "dev": "tsx src/main.ts",
     "probe": "tsx lab/probe-prompts.ts",
     "build:css": "tailwindcss -i src/brief.css -o site/brief.css --minify",
-    "render": "npm run build:css && tsx src/render-latest.ts",
+    "render": "npm run build:css && tsx src/render-site.ts",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },

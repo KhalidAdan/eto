@@ -1,0 +1,25 @@
+# The newsstand: whenever the press (which runs only on the editor's own
+# machine — NORTH-STAR §10) pushes a new edition in site/, publish it to
+# Cloudflare Pages at eto.news. This workflow never runs models, never
+# fetches feeds, never composes — it only carries the finished paper.
+name: publish-edition
+
+on:
+  push:
+    branches: [main]
+    paths: ["site/**"]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy site/ to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site --project-name=eto-news
