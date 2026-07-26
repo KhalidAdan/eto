@@ -7,7 +7,7 @@ name: publish-edition
 on:
   push:
     branches: [main]
-    paths: ["site/**"]
+    paths: ["site/**", "functions/**"]
   workflow_dispatch:
 
 jobs:
