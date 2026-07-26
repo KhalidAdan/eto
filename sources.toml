@@ -1,0 +1,59 @@
+# eto — the masthead file
+#
+# This file is your editorial line. Every outlet eto reads is listed here,
+# and the "side" label on each one is YOUR call, not eto's — eto only uses
+# it to measure when a story's coverage has collapsed onto one side
+# (NORTH-STAR §6). The seeds below are conventional placements to start
+# from. Disagree with one? Change it. That is the point of the file.
+#
+# side: one of "left", "center", "right" (add your own labels if you want —
+#       eto compares labels for balance, it does not interpret them)
+
+[[source]]
+name = "FOX News"
+side = "right"
+feeds = [
+  "https://moxie.foxnews.com/google-publisher/politics.xml",
+  "https://moxie.foxnews.com/google-publisher/world.xml",
+]
+
+[[source]]
+name = "New York Post"
+side = "right"
+feeds = ["https://nypost.com/feed/"]
+
+[[source]]
+name = "Washington Times"
+side = "right"
+feeds = ["https://www.washingtontimes.com/rss/headlines/news/politics/"]
+
+[[source]]
+name = "NPR"
+side = "left"
+feeds = ["https://feeds.npr.org/1001/rss.xml"]
+
+[[source]]
+name = "The Guardian"
+side = "left"
+feeds = [
+  "https://www.theguardian.com/us-news/rss",
+  "https://www.theguardian.com/world/rss",
+]
+
+[[source]]
+name = "BBC"
+side = "center"
+feeds = [
+  "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+]
+
+[[source]]
+name = "The Hill"
+side = "center"
+feeds = ["https://thehill.com/homenews/feed/"]
+
+[[source]]
+name = "Al Jazeera"
+side = "center"
+feeds = ["https://www.aljazeera.com/xml/rss/all.xml"]
