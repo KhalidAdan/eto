@@ -46,5 +46,9 @@ Write-Log "carrying to the newsstand (git push)"
 & git push origin *>> $log
 if ($LASTEXITCODE -ne 0) { Write-Log "PUSH FAILED (exit $LASTEXITCODE)"; exit 1 }
 
+Write-Log "emailing the edition (npm run email)"
+& npm run email *>> $log
+if ($LASTEXITCODE -ne 0) { Write-Log "EMAIL FAILED (non-fatal; paper is published)" }
+
 Write-Log "published: archive/$today.md -> eto.news"
 exit 0

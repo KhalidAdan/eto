@@ -15,6 +15,10 @@
 # reason printed for you to judge. Set false and it is gone (experiment 003).
 below_the_fold = true
 
+# Morning email delivery to the eto-readers list. Flip to true once the
+# mail domain is verified and SES production access is granted.
+email_edition = false
+
 # ---- left -------------------------------------------------------------
 
 [[source]]
