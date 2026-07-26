@@ -1,8 +1,9 @@
 node_modules/
-db/
+db/*
 dist/
 lab/output/
 
 .claude/
 logs/
 .env
+!db/exports/

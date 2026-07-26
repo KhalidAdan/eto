@@ -40,6 +40,9 @@ Write-Log "rendering the site (npm run render)"
 & npm run render *>> $log
 if ($LASTEXITCODE -ne 0) { Write-Log "RENDER FAILED (exit $LASTEXITCODE)"; exit 1 }
 
+Write-Log "exporting durable journal tables (npm run export)"
+& npm run export *>> $log
+
 Write-Log "carrying to the newsstand (git push)"
 & git add -A *>> $log
 & git commit -m "the $today edition (paperboy)" *>> $log
@@ -49,6 +52,10 @@ if ($LASTEXITCODE -ne 0) { Write-Log "PUSH FAILED (exit $LASTEXITCODE)"; exit 1 
 Write-Log "emailing the edition (npm run email)"
 & npm run email *>> $log
 if ($LASTEXITCODE -ne 0) { Write-Log "EMAIL FAILED (non-fatal; paper is published)" }
+
+Write-Log "backing up the journal (npm run backup)"
+& npm run backup *>> $log
+if ($LASTEXITCODE -ne 0) { Write-Log "BACKUP FAILED (non-fatal)" }
 
 Write-Log "published: archive/$today.md -> eto.news"
 exit 0

@@ -10,6 +10,9 @@
     "build:css": "tailwindcss -i src/brief.css -o site/brief.css --minify",
     "render": "npm run build:css && tsx src/render-site.ts",
     "email": "tsx src/send-edition.ts",
+    "correct": "tsx src/correct.ts",
+    "export": "tsx src/export-journal.ts",
+    "backup": "tsx src/backup-journal.ts",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },
