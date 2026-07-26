@@ -11,6 +11,10 @@
 # status, paywall caveats — is docs/SOURCES.md. Disagree with a label?
 # Change it. That is the point of the file.
 
+# One model-nominated story per day from outside the front page, its
+# reason printed for you to judge. Set false and it is gone (experiment 003).
+below_the_fold = true
+
 # ---- left -------------------------------------------------------------
 
 [[source]]
