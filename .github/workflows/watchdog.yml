@@ -1,0 +1,41 @@
+# The watchdog: the cloud never prints the paper, it only notices silence.
+# Every morning at 11:30 UTC (7:30 Eastern in summer, 6:30 in winter) it
+# checks whether today's edition reached eto.news. If not, it opens an
+# issue — which lands in the editor's email — and says so plainly.
+name: no-paper-watchdog
+
+on:
+  schedule:
+    - cron: "30 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check today's edition is on the newsstand
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          TODAY=$(TZ=America/New_York date +%F)
+          URL="https://eto.news/$TODAY.html"
+          CODE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 "$URL" || echo "000")
+          echo "$URL -> HTTP $CODE"
+          if [ "$CODE" = "200" ]; then
+            echo "The paper went out. Back to sleep."
+            exit 0
+          fi
+          TITLE="No paper this morning: $TODAY"
+          EXISTING=$(gh issue list --repo "$REPO" --state open --search "\"$TITLE\" in:title" --json number --jq length)
+          if [ "$EXISTING" != "0" ]; then
+            echo "Issue already open."
+            exit 0
+          fi
+          gh issue create --repo "$REPO" \
+            --title "$TITLE" \
+            --body "$(printf 'The watchdog checked %s at %s UTC and got HTTP %s.\n\nThe press runs locally — check the machine:\n- logs/paperboy-%s.log in the repo working copy\n- Task Scheduler: eto-morning-edition (retries hourly until 11:30 local)\n- The journal makes reruns safe: just run the task again or `npm run dev`.\n\nThis issue is only an alarm. The archive is untouched.' "$URL" "$(date -u +%H:%M)" "$CODE" "$TODAY")"
+          echo "Issue opened."

@@ -4,3 +4,4 @@ dist/
 lab/output/
 
 .claude/
+logs/
