@@ -1,13 +1,16 @@
 # The newsstand: whenever the press (which runs only on the editor's own
 # machine — NORTH-STAR §10) pushes a new edition in site/, publish it to
 # Cloudflare Pages at eto.news. This workflow never runs models, never
-# fetches feeds, never composes — it only carries the finished paper.
+# fetches feeds, never composes — it only carries the finished paper
+# (and bundles the mail-slot functions that ride along with it).
+#
+# Wrangler is invoked directly — no third-party action layer to rot.
 name: publish-edition
 
 on:
   push:
     branches: [main]
-    paths: ["site/**", "functions/**"]
+    paths: ["site/**", "functions/**", ".github/workflows/deploy.yml"]
   workflow_dispatch:
 
 jobs:
@@ -17,18 +20,14 @@ jobs:
       contents: read
     steps:
       - uses: actions/checkout@v4
-      # Self-bootstrapping: creates the Pages project on the very first
-      # run; harmlessly fails every run after, hence continue-on-error.
-      - name: Ensure Pages project exists
-        uses: cloudflare/wrangler-action@v3
-        continue-on-error: true
+      - uses: actions/setup-node@v4
         with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages project create eto-news --production-branch=main
-      - name: Deploy site/ to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy site --project-name=eto-news
+          node-version: 24
+          cache: npm
+      - name: Install dependencies (functions bundle needs them)
+        run: npm ci
+      - name: Deploy site + functions to Cloudflare Pages
+        run: npx wrangler pages deploy site --project-name=eto-news
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
