@@ -23,19 +23,32 @@ jobs:
         run: |
           TODAY=$(TZ=America/New_York date +%F)
           URL="https://eto.news/$TODAY.html"
-          CODE=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 "$URL" || echo "000")
-          echo "$URL -> HTTP $CODE"
-          if [ "$CODE" = "200" ]; then
+          BODY=$(mktemp)
+          # -L: Pages 308-redirects .html paths to extensionless versions.
+          CODE=$(curl -sL -o "$BODY" -w "%{http_code}" --max-time 30 "$URL" || echo "000")
+          echo "$URL -> HTTP $CODE (after redirects)"
+          # Status alone is not proof: Pages' SPA fallback once served the
+          # home page with a 200 for a missing edition (2026-07-27, the
+          # silent miss). The real edition page carries its own canonical.
+          if [ "$CODE" = "200" ] && grep -qF "canonical\" href=\"https://eto.news/$TODAY.html" "$BODY"; then
             echo "The paper went out. Back to sleep."
             exit 0
           fi
+          echo "Page missing or an impostor (fallback) answered."
           TITLE="No paper this morning: $TODAY"
-          EXISTING=$(gh issue list --repo "$REPO" --state open --search "\"$TITLE\" in:title" --json number --jq length)
-          if [ "$EXISTING" != "0" ]; then
+          # Dedup fails CLOSED: if this count is anything but a clean
+          # positive integer, we alarm anyway. A duplicate issue is noise;
+          # a suppressed one is the 2026-07-27 silent miss again.
+          COUNT=$(gh issue list --repo "$REPO" --state open --search "in:title \"$TITLE\"" --json number --jq length 2>/dev/null || echo 0)
+          case "$COUNT" in (''|*[!0-9]*) COUNT=0 ;; esac
+          if [ "$COUNT" -gt 0 ]; then
             echo "Issue already open."
             exit 0
           fi
+          # Creation failure fails the WORKFLOW (red X emails the owner) —
+          # the alarm must never be able to fail quietly.
           gh issue create --repo "$REPO" \
             --title "$TITLE" \
-            --body "$(printf 'The watchdog checked %s at %s UTC and got HTTP %s.\n\nThe press runs locally — check the machine:\n- logs/paperboy-%s.log in the repo working copy\n- Task Scheduler: eto-morning-edition (retries hourly until 11:30 local)\n- The journal makes reruns safe: just run the task again or `npm run dev`.\n\nThis issue is only an alarm. The archive is untouched.' "$URL" "$(date -u +%H:%M)" "$CODE" "$TODAY")"
+            --body "$(printf 'The watchdog checked %s at %s UTC and got HTTP %s (or a fallback page).\n\nThe press runs locally — check the machine:\n- logs/paperboy-%s.log in the repo working copy\n- Task Scheduler: eto-morning-edition (retries hourly until 11:30 local)\n- The journal makes reruns safe: just run the task again or `npm run dev`.\n\nThis issue is only an alarm. The archive is untouched.' "$URL" "$(date -u +%H:%M)" "$CODE" "$TODAY")" \
+            || { echo "ISSUE CREATION FAILED"; exit 1; }
           echo "Issue opened."

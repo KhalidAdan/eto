@@ -32,30 +32,35 @@ try {
     Start-Sleep -Seconds 15
 }
 
+# npm is invoked via cmd /c on purpose: PowerShell resolves bare `npm` to
+# the npm.ps1 shim, which mangles arguments in scheduled, non-interactive
+# sessions ("Unknown command: pm" — the 2026-07-27 missed edition). cmd
+# resolves npm.cmd, which is reliable everywhere.
+function Invoke-Npm($npmArgs) {
+    & cmd /c "npm $npmArgs >> `"$log`" 2>&1"
+    return $LASTEXITCODE
+}
+
 Write-Log "running the press (npm run dev)"
-& npm run dev *>> $log
-if ($LASTEXITCODE -ne 0) { Write-Log "PRESS FAILED (exit $LASTEXITCODE)"; exit 1 }
+if ((Invoke-Npm "run dev") -ne 0) { Write-Log "PRESS FAILED"; exit 1 }
 
 Write-Log "rendering the site (npm run render)"
-& npm run render *>> $log
-if ($LASTEXITCODE -ne 0) { Write-Log "RENDER FAILED (exit $LASTEXITCODE)"; exit 1 }
+if ((Invoke-Npm "run render") -ne 0) { Write-Log "RENDER FAILED"; exit 1 }
 
 Write-Log "exporting durable journal tables (npm run export)"
-& npm run export *>> $log
+Invoke-Npm "run export" | Out-Null
 
 Write-Log "carrying to the newsstand (git push)"
-& git add -A *>> $log
-& git commit -m "the $today edition (paperboy)" *>> $log
-& git push origin *>> $log
+& cmd /c "git add -A >> `"$log`" 2>&1"
+& cmd /c "git commit -m `"the $today edition (paperboy)`" >> `"$log`" 2>&1"
+& cmd /c "git push origin >> `"$log`" 2>&1"
 if ($LASTEXITCODE -ne 0) { Write-Log "PUSH FAILED (exit $LASTEXITCODE)"; exit 1 }
 
 Write-Log "emailing the edition (npm run email)"
-& npm run email *>> $log
-if ($LASTEXITCODE -ne 0) { Write-Log "EMAIL FAILED (non-fatal; paper is published)" }
+if ((Invoke-Npm "run email") -ne 0) { Write-Log "EMAIL FAILED (non-fatal; paper is published)" }
 
 Write-Log "backing up the journal (npm run backup)"
-& npm run backup *>> $log
-if ($LASTEXITCODE -ne 0) { Write-Log "BACKUP FAILED (non-fatal)" }
+if ((Invoke-Npm "run backup") -ne 0) { Write-Log "BACKUP FAILED (non-fatal)" }
 
 Write-Log "published: archive/$today.md -> eto.news"
 exit 0
