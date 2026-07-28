@@ -105,6 +105,7 @@ feeds = ["https://www.newsweek.com/rss"]
 name = "BBC"
 side = "center"
 feeds = [
+  "https://feeds.bbci.co.uk/news/rss.xml",
   "https://feeds.bbci.co.uk/news/world/rss.xml",
   "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
 ]
@@ -112,7 +113,27 @@ feeds = [
 [[source]]
 name = "The Hill"
 side = "center"
-feeds = ["https://thehill.com/homenews/feed/"]
+feeds = [
+  "https://thehill.com/homenews/feed/",
+  "https://thehill.com/policy/feed/",
+]
+
+# A center wire service — the closest thing to the Reuters-shaped hole
+# (Reuters has no public RSS). Pairs with AP on the lean-left bench.
+[[source]]
+name = "UPI"
+side = "center"
+feeds = ["https://rss.upi.com/news/top_news.rss"]
+
+[[source]]
+name = "Straight Arrow News"
+side = "center"
+feeds = ["https://san.com/feed/"]
+
+[[source]]
+name = "MarketWatch"
+side = "center"
+feeds = ["https://feeds.content.dowjones.io/public/rss/mw_topstories"]
 
 [[source]]
 name = "Christian Science Monitor"
