@@ -1,9 +1,11 @@
 # The paperboy: prints the morning edition and carries it to the newsstand.
 #
 # Runs from Task Scheduler ("eto-morning-edition") daily at 5:30 with hourly
-# retries until 11:30. Safe to fire any number of times: if today's edition
-# already exists it exits immediately, and every pipeline stage resumes from
-# the journal, so a retry only redoes the work that failed.
+# retries until 11:30, plus at logon so a missed morning (overnight update
+# reboot, machine asleep) catches up as soon as someone is back at the desk.
+# Safe to fire any number of times: if today's edition already exists it exits
+# immediately, and every pipeline stage resumes from the journal, so a retry
+# only redoes the work that failed.
 #
 # Logs: logs\paperboy-YYYY-MM-DD.log (gitignored).
 
@@ -16,6 +18,13 @@ function Write-Log($m) { "$(Get-Date -Format HH:mm:ss) $m" | Add-Content $log }
 
 if (Test-Path (Join-Path $repo "archive\$today.md")) {
     Write-Log "edition already published; nothing to do"
+    exit 0
+}
+
+# The logon trigger fires whenever someone signs in; before 5:30 that would
+# print the morning edition on last night's news.
+if ((Get-Date).TimeOfDay -lt [TimeSpan]"05:30") {
+    Write-Log "before 5:30; too early to print the morning edition"
     exit 0
 }
 
