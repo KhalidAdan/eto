@@ -97,6 +97,11 @@ feeds = ["https://feedx.net/rss/ap.xml"]
 # ---- center -----------------------------------------------------------
 
 [[source]]
+name = "Newsweek"
+side = "center"
+feeds = ["https://www.newsweek.com/rss"]
+
+[[source]]
 name = "BBC"
 side = "center"
 feeds = [
@@ -108,11 +113,6 @@ feeds = [
 name = "The Hill"
 side = "center"
 feeds = ["https://thehill.com/homenews/feed/"]
-
-[[source]]
-name = "Newsweek"
-side = "center"
-feeds = ["https://www.newsweek.com/rss"]
 
 [[source]]
 name = "Christian Science Monitor"
@@ -139,12 +139,21 @@ feeds = [
 [[source]]
 name = "Washington Examiner"
 side = "lean-right"
-feeds = ["https://www.washingtonexaminer.com/feed/"]
+feeds = [
+  "https://www.washingtonexaminer.com/feed/",
+  "https://www.washingtonexaminer.com/news/feed/",
+  "https://www.washingtonexaminer.com/politics/feed/",
+]
 
+# news/feed is straight news; the main feed skews essay. The Corner
+# (opinion blog) deliberately excluded.
 [[source]]
 name = "National Review"
 side = "lean-right"
-feeds = ["https://www.nationalreview.com/feed/"]
+feeds = [
+  "https://www.nationalreview.com/feed/",
+  "https://www.nationalreview.com/news/feed/",
+]
 
 [[source]]
 name = "The Dispatch"
