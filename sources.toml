@@ -85,6 +85,15 @@ name = "Axios"
 side = "lean-left"
 feeds = ["https://api.axios.com/feed/"]
 
+# AP retired its official public RSS; this is an unofficial mirror used
+# for DISCOVERY only — every article is fetched from apnews.com's own
+# front door (verified open, 2026-07-27). If the mirror dies, the health
+# panel will say so and the slot gets refilled.
+[[source]]
+name = "Associated Press"
+side = "lean-left"
+feeds = ["https://feedx.net/rss/ap.xml"]
+
 # ---- center -----------------------------------------------------------
 
 [[source]]
