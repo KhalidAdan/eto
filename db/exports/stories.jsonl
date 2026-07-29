@@ -33,3 +33,12 @@
 {"run_id":"2026-07-28","cluster_hash":"ec52bcafb09accbf","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-07-28","cluster_hash":"5e099e7da18affa8","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-07-28","cluster_hash":"57e57d064fd1ba3b","rank":9,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Johnson & Johnson proposes $5.5 billion talc settlement to end marathon legal fight, potentially providing significant financial relief to thousands of cancer victims and their families."}
+{"run_id":"2026-07-29","cluster_hash":"a9f133632e73f620","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-07-29","cluster_hash":"32c966fde2d1e21f","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-07-29","cluster_hash":"c4c3a2dad39d07ec","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-07-29","cluster_hash":"046e38e329d8dc48","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-07-29","cluster_hash":"ae6027d4a8a30a9c","rank":5,"balance_note":"No source labeled center covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-07-29","cluster_hash":"6167c1539e674395","rank":6,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"in response to recent drone attacks\"","fold_reason":null}
+{"run_id":"2026-07-29","cluster_hash":"78ce5c7e1c29bc65","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-07-29","cluster_hash":"5cb32b55963d5b84","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-07-29","cluster_hash":"8f43bf0b0a82a280","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"White Phosphorous Leak At US Military Base Sparks Evacuation"}
