@@ -71,5 +71,8 @@ if ((Invoke-Npm "run email") -ne 0) { Write-Log "EMAIL FAILED (non-fatal; paper 
 Write-Log "backing up the journal (npm run backup)"
 if ((Invoke-Npm "run backup") -ne 0) { Write-Log "BACKUP FAILED (non-fatal)" }
 
+Write-Log "backing up the reader list (npm run backup:readers)"
+if ((Invoke-Npm "run backup:readers") -ne 0) { Write-Log "READER BACKUP FAILED (non-fatal)" }
+
 Write-Log "published: archive/$today.md -> eto.news"
 exit 0

@@ -13,6 +13,7 @@
     "correct": "tsx src/correct.ts",
     "export": "tsx src/export-journal.ts",
     "backup": "tsx src/backup-journal.ts",
+    "backup:readers": "tsx src/backup-readers.ts",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },
