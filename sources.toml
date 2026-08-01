@@ -73,7 +73,8 @@ feeds = ["https://rss.politico.com/politics-news.xml"]
 [[source]]
 name = "ABC News"
 side = "lean-left"
-feeds = ["https://abcnews.go.com/abcnews/topstories"]
+# 2026-07-31: abcnews.go.com 301s to abcnews.com; the feed is alive at the new host
+feeds = ["https://abcnews.com/abcnews/topstories"]
 
 [[source]]
 name = "CBS News"
