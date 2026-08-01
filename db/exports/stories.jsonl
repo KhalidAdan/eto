@@ -60,3 +60,12 @@
 {"run_id":"2026-07-31","cluster_hash":"638cbcb469abc7e7","rank":7,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-07-31","cluster_hash":"0f248816774deb5e","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-07-31","cluster_hash":"b07a9b4d44f0ee87","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"The US is investigating if Iran was behind a cyberattack on Minnesota water systems."}
+{"run_id":"2026-08-01","cluster_hash":"f0c22d0f7836f6a9","rank":1,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"punishment for aggression\"","fold_reason":null}
+{"run_id":"2026-08-01","cluster_hash":"e061014fdad8b6e6","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-01","cluster_hash":"803795976e5cb4d6","rank":3,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"awaits final approval from hamas\"","fold_reason":null}
+{"run_id":"2026-08-01","cluster_hash":"af107b4873b057ac","rank":4,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
+{"run_id":"2026-08-01","cluster_hash":"c928c4ae9ac7cc3d","rank":5,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-01","cluster_hash":"60d1544098e85898","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-01","cluster_hash":"2037b30fbae57df2","rank":7,"balance_note":"No source labeled left covered this story.","status":"dropped","reason":"failed verification: quote not found in any account: \"blood, fear, or shared exposure\"","fold_reason":null}
+{"run_id":"2026-08-01","cluster_hash":"d3faa0ff37693551","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-01","cluster_hash":"be046f2bc52c9228","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Potential major water cuts for Arizona, California, and Nevada threaten millions of residents' access to clean water and agricultural livelihoods."}
