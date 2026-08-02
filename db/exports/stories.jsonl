@@ -69,11 +69,12 @@
 {"run_id":"2026-08-01","cluster_hash":"2037b30fbae57df2","rank":7,"balance_note":"No source labeled left covered this story.","status":"dropped","reason":"failed verification: quote not found in any account: \"blood, fear, or shared exposure\"","fold_reason":null}
 {"run_id":"2026-08-01","cluster_hash":"d3faa0ff37693551","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-01","cluster_hash":"be046f2bc52c9228","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Potential major water cuts for Arizona, California, and Nevada threaten millions of residents' access to clean water and agricultural livelihoods."}
-{"run_id":"2026-08-02","cluster_hash":"fca8d248fe5c45ca","rank":1,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
-{"run_id":"2026-08-02","cluster_hash":"071c89dca8f2d280","rank":2,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
-{"run_id":"2026-08-02","cluster_hash":"d708c041653638d2","rank":3,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
-{"run_id":"2026-08-02","cluster_hash":"e1238d922c25b1b0","rank":4,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
-{"run_id":"2026-08-02","cluster_hash":"f925259a21c6cb0b","rank":5,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
-{"run_id":"2026-08-02","cluster_hash":"97450e06daa93da3","rank":6,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
-{"run_id":"2026-08-02","cluster_hash":"a4f2e4d903b10ac5","rank":7,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
-{"run_id":"2026-08-02","cluster_hash":"aa38c85351e98ccf","rank":8,"balance_note":"No source labeled left covered this story.","status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
+{"run_id":"2026-08-02","cluster_hash":"1b9d70c2835e3765","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-02","cluster_hash":"e5b72f1bc2cbd034","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-02","cluster_hash":"96852dc27702bb38","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-02","cluster_hash":"071c89dca8f2d280","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-02","cluster_hash":"6edaaac76a8875a1","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-02","cluster_hash":"7d83489d27cdd22d","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-02","cluster_hash":"a64df95ac16e24af","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-02","cluster_hash":"db42724980ca8314","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-02","cluster_hash":"898d0051163274fb","rank":9,"balance_note":"No source labeled center or lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Town declared abandoned after officials resign over water crisis and fraud, leaving residents without essential services or leadership."}
