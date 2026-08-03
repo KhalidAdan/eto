@@ -78,3 +78,12 @@
 {"run_id":"2026-08-02","cluster_hash":"a64df95ac16e24af","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-02","cluster_hash":"db42724980ca8314","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-02","cluster_hash":"898d0051163274fb","rank":9,"balance_note":"No source labeled center or lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Town declared abandoned after officials resign over water crisis and fraud, leaving residents without essential services or leadership."}
+{"run_id":"2026-08-03","cluster_hash":"65b2e5838a5db7e1","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-03","cluster_hash":"cf8c2aa7ebe17edd","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-03","cluster_hash":"bccfc910505c94c4","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-03","cluster_hash":"379904fee154ab81","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-03","cluster_hash":"64efce3e47ac975f","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-03","cluster_hash":"3e394c169b701e67","rank":6,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-03","cluster_hash":"8b36bb929b3340b6","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
+{"run_id":"2026-08-03","cluster_hash":"064ee796f8acdd78","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-03","cluster_hash":"0f60614907626943","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Cutting Medicare subsidies threatens seniors' healthcare affordability, potentially forcing millions into more expensive Advantage plans."}
