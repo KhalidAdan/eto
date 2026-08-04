@@ -87,3 +87,12 @@
 {"run_id":"2026-08-03","cluster_hash":"8b36bb929b3340b6","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
 {"run_id":"2026-08-03","cluster_hash":"064ee796f8acdd78","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-03","cluster_hash":"0f60614907626943","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Cutting Medicare subsidies threatens seniors' healthcare affordability, potentially forcing millions into more expensive Advantage plans."}
+{"run_id":"2026-08-04","cluster_hash":"e8b5ce6630258e86","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-04","cluster_hash":"b1c43dcef9ab7918","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-04","cluster_hash":"810bf75f4d291701","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-04","cluster_hash":"a607ff09cd85e554","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-04","cluster_hash":"ce22076341a097bc","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-04","cluster_hash":"0031affac6072c5c","rank":6,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"folding like an umbrella\"; quote not found in any account: \"forcefully and violently pulled up and removed the bottom li\"; quote not found in any account: \"going after","fold_reason":null}
+{"run_id":"2026-08-04","cluster_hash":"b04ae40f466ba7fc","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-04","cluster_hash":"7240a5c5f436cd35","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-04","cluster_hash":"6d334997ede41cc3","rank":9,"balance_note":"No source labeled center or lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Medicaid work rule leaves homeless people in the cold, endangering their health and safety."}
