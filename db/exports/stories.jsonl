@@ -105,3 +105,12 @@
 {"run_id":"2026-08-05","cluster_hash":"12d676290f2d146f","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-05","cluster_hash":"97f67e37d90dc550","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-05","cluster_hash":"f3cceb92fdcdf49f","rank":9,"balance_note":"No source labeled center or lean-left or right covered this story.","status":"published","reason":null,"fold_reason":"Cyclosporiasis outbreak linked to two deaths prompts nationwide lettuce supply chain disruption and safety concerns."}
+{"run_id":"2026-08-06","cluster_hash":"4ecf73f16c67d313","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-06","cluster_hash":"e2fa208cf0b38064","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-06","cluster_hash":"ef98661da304c914","rank":3,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-06","cluster_hash":"50b1034610e882e3","rank":4,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-06","cluster_hash":"a96cca00638a8f20","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-06","cluster_hash":"9127210b51590774","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-06","cluster_hash":"76c41c031b2a1fee","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-06","cluster_hash":"eedabd855ce253cb","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-06","cluster_hash":"d2614cdae436f2b6","rank":9,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":"Salmonella outbreak linked to jalapeños sickens thousands across 27 states, prompting widespread food recalls and hospitalizations."}
