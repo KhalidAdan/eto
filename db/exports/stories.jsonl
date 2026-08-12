@@ -159,3 +159,12 @@
 {"run_id":"2026-08-11","cluster_hash":"0c69372daea569f1","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-11","cluster_hash":"7e3a275d82ea4dd6","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-11","cluster_hash":"bd80c5943c9b7664","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Hotel staff's failure to secure room keys led to a woman's assault, exposing systemic vulnerabilities in hospitality safety protocols."}
+{"run_id":"2026-08-12","cluster_hash":"f99cb07587d22e71","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-12","cluster_hash":"a38371315cad1119","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-12","cluster_hash":"1f8666e9ac5a1e42","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-12","cluster_hash":"6b0a483ef9e7cc75","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-12","cluster_hash":"19e04fb2d9befed1","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-12","cluster_hash":"f5a9e92d18a0c8e0","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-12","cluster_hash":"ed73b65f91690392","rank":7,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"folding like a cheap umbrella\"","fold_reason":null}
+{"run_id":"2026-08-12","cluster_hash":"e8ac76f613b559cb","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-12","cluster_hash":"ba82d097dd7004c9","rank":9,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Unlicensed NYC boat operator allegedly ignored safety warnings before mother, baby died in capsizing: feds"}
