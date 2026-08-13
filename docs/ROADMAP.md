@@ -239,11 +239,18 @@ as the chart revises.
   typecheck; 58/58 tests standalone; CI + tag-publish workflows ready.
 - **Step 5 part** (`265f52e`): @eto-press/cli works (8 verbs);
   @eto-press/subscribe packaged. Mail provider interface deferred.
-- **Step 4 prepared, not merged** (paper branch `press-flip`, `9bb431b`):
-  flip rehearsed in a sandbox from a packed tarball. Merges only after
-  npm publish + editor's go; src/ deleted after three green mornings.
-- **Waiting on the editor**: npm login + create @eto-press org; gh login
-  + create the GitHub repo and push eto-press; license decision.
+- **Step 4 MERGED** (`48e0102`, same night): rehearsal printed a full
+  edition from the packed tarball; packages published as 1.20260813.0,
+  then 1.20260813.1 with the license; flip installed from the registry,
+  site re-rendered byte-identical, merged on the editor's go. The paper
+  prints from @eto-press/press@1.20260813.1. src/ stays dormant until
+  three green mornings (counting from 2026-08-14); then it comes out.
+- **Published**: github.com/KhalidAdan/eto-press (public), npm @eto-press
+  org — cli, press, subscribe, all AGPL-3.0-only.
+- **Still open**: NPM_TOKEN repo secret if tag-publishing is wanted;
+  npm's "bin[eto] cleaned" warning on the cli package (verify npx
+  @eto-press/cli works from a cold install); mail provider interface;
+  phase 2 (init/doctor), 3, 4.
 
 ---
 
