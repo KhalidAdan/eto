@@ -1,0 +1,38 @@
+# eto.toml — the paper's nameplate and plumbing.
+#
+# sources.toml is the editorial line: which outlets, standing where. This
+# file is everything else the paper owns: what it is called, where it
+# lives, which models print it, how the mail goes out, where the backups
+# land. Every field is optional — a missing field falls back to the
+# flagship paper's value, so this file only ever narrows behavior, never
+# invents it.
+
+[paper]
+name = "eto"
+motto = "Each story. Every side."
+description = "A daily brief. Each story is one event told through outlets that disagree — differences named in plain words, every source linked, coverage gaps measured. Then it ends."
+site_url = "https://eto.news"
+# The single accent — spent only on the paper's own measurements
+# (NORTH-STAR: the differ label and the balance notes), never on the news.
+accent = "#7f1d1d"
+
+[models]
+ollama_url = "http://localhost:11434"
+match = "qwen3:4b-instruct"
+composite = "qwen3:8b"
+composite_num_ctx = 8192
+
+[mail]
+region = "ca-central-1"
+domain = "eto.news"
+from = "eto <brief@eto.news>"
+# Until the domain identity verifies, sends fall back to the editor's
+# verified address — loudly.
+from_fallback = "khalidadan@gmail.com"
+contact_list = "eto-readers"
+topic = "morning-edition"
+config_set = "eto-mail"
+
+[backup]
+dir = "E:\\eto-backups"
+keep = 14
