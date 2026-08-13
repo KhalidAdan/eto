@@ -168,3 +168,12 @@
 {"run_id":"2026-08-12","cluster_hash":"ed73b65f91690392","rank":7,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"folding like a cheap umbrella\"","fold_reason":null}
 {"run_id":"2026-08-12","cluster_hash":"e8ac76f613b559cb","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-12","cluster_hash":"ba82d097dd7004c9","rank":9,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Unlicensed NYC boat operator allegedly ignored safety warnings before mother, baby died in capsizing: feds"}
+{"run_id":"2026-08-13","cluster_hash":"a9d06ec089b7e193","rank":1,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
+{"run_id":"2026-08-13","cluster_hash":"4ae337715b81a545","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-13","cluster_hash":"9b67d95bf13515f0","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
+{"run_id":"2026-08-13","cluster_hash":"b1a488fe0791bcb8","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-13","cluster_hash":"bbf716d0c3d13f57","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-13","cluster_hash":"493d17fc1afd77a0","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-13","cluster_hash":"0adb514015efc507","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-13","cluster_hash":"17ab419eb0fb81b9","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-13","cluster_hash":"33d8660ee3eaab1e","rank":9,"balance_note":"No source labeled center or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Thailand suspends gun licences as teen shooter and grandparents he killed are cremated, leading to stricter gun controls affecting public safety."}
