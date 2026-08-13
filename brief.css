@@ -1,0 +1,5 @@
+/* The paper's stylesheet: the press's design plus this paper's own
+ * hand-written pages. Compiled by `npm run build:css` into
+ * site/brief.css. */
+@import "./node_modules/@eto-press/press/src/brief.css";
+@source "./site/404.html";
