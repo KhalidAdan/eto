@@ -228,4 +228,23 @@ as the chart revises.
 
 ---
 
+## Status — night of 2026-08-13
+
+- **Step 1 done** (paper repo `2a1eb15`): eto.toml + config loader; output
+  proven byte-identical; brief.css scan pinned.
+- **Step 2 done** (`0e3dfd1`): src/press.ts declares the API and the
+  cwd-as-paper contract; step 1 left no paper glue in src/.
+- **Step 3 done** (eto-press repo `8e8a17b`): monorepo extracted with
+  filtered history (40 code commits, editions stripped); both packages
+  typecheck; 58/58 tests standalone; CI + tag-publish workflows ready.
+- **Step 5 part** (`265f52e`): @eto-press/cli works (8 verbs);
+  @eto-press/subscribe packaged. Mail provider interface deferred.
+- **Step 4 prepared, not merged** (paper branch `press-flip`, `9bb431b`):
+  flip rehearsed in a sandbox from a packed tarball. Merges only after
+  npm publish + editor's go; src/ deleted after three green mornings.
+- **Waiting on the editor**: npm login + create @eto-press org; gh login
+  + create the GitHub repo and push eto-press; license decision.
+
+---
+
 *The press moves out. The paper stays home.*
