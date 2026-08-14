@@ -247,10 +247,15 @@ as the chart revises.
   three green mornings (counting from 2026-08-14); then it comes out.
 - **Published**: github.com/KhalidAdan/eto-press (public), npm @eto-press
   org — cli, press, subscribe, all AGPL-3.0-only.
-- **Still open**: NPM_TOKEN repo secret if tag-publishing is wanted;
-  npm's "bin[eto] cleaned" warning on the cli package (verify npx
-  @eto-press/cli works from a cold install); mail provider interface;
-  phase 2 (init/doctor), 3, 4.
+- **Phase 1 closed out, same night**: NPM_TOKEN secret set (granular
+  token — it expires; refresh or move to npm trusted publishing/OIDC);
+  cold `npx @eto-press/cli@latest` verified on a clean directory; the
+  deprecated prebuild-install warning on cold installs is upstream's —
+  bump requested in Effect-TS/effect#7242, node:sqlite parked as a
+  later investigation.
+- **Watch mode**: three green mornings from 2026-08-14, then src/ and
+  lab/ come out of the paper. Next construction: mail provider
+  interface, then phase 2 (init/doctor), 3, 4.
 
 ---
 
