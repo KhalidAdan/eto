@@ -177,3 +177,12 @@
 {"run_id":"2026-08-13","cluster_hash":"0adb514015efc507","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-13","cluster_hash":"17ab419eb0fb81b9","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-13","cluster_hash":"33d8660ee3eaab1e","rank":9,"balance_note":"No source labeled center or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Thailand suspends gun licences as teen shooter and grandparents he killed are cremated, leading to stricter gun controls affecting public safety."}
+{"run_id":"2026-08-14","cluster_hash":"d0e6ecdb99f39b1d","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-14","cluster_hash":"bfb70e49665a971b","rank":2,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-14","cluster_hash":"83be4d544f665307","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-14","cluster_hash":"4f12901550d96cd1","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-14","cluster_hash":"046a587160452688","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-14","cluster_hash":"4fe1bda88d5369ee","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-14","cluster_hash":"8d0617d1eef633df","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-14","cluster_hash":"fd94277b16f1061e","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-14","cluster_hash":"e194e269525e7b7f","rank":9,"balance_note":"No source labeled center or lean-left covered this story.","status":"dropped","reason":"draft malformed after two attempts","fold_reason":"Thwarting a Russian assassination plot against a US citizen in Warsaw prevents potential loss of life and safeguards national security."}
