@@ -19,6 +19,15 @@ below_the_fold = true
 # mail domain is verified and SES production access is granted.
 email_edition = true
 
+# Where these side labels came from — the claim this paper makes on its
+# sources page. As of press 1.20260814.1 provenance is masthead data:
+# no [seed], no claim printed.
+[seed]
+name = "AllSides Media Bias Chart"
+url = "https://www.allsides.com/media-bias/media-bias-chart"
+version = "v11.3"
+description = "which rates outlets from left to right by balancing the judgment of readers and reviewers across the political spectrum"
+
 # ---- left -------------------------------------------------------------
 
 [[source]]
