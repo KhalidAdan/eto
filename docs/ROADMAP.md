@@ -253,9 +253,16 @@ as the chart revises.
   deprecated prebuild-install warning on cold installs is upstream's —
   bump requested in Effect-TS/effect#7242, node:sqlite parked as a
   later investigation.
+- **Phase 2 shipped, same week** (press 1.20260814.1, evening of the
+  14th, editor's go): eto doctor, eto models, eto press, eto schedule,
+  eto init with the seeded Default Masthead; neutral defaults —
+  a configless paper is nobody's copy; provenance became masthead data
+  ([seed]); the wordmark signs itself in the paper's accent. The
+  flagship adopted the same night.
 - **Watch mode**: three green mornings from 2026-08-14, then src/ and
-  lab/ come out of the paper. Next construction: mail provider
-  interface, then phase 2 (init/doctor), 3, 4.
+  lab/ come out of the paper. Still open: trusted-publisher clicks on
+  npmjs.com (until then, releases publish locally); mail provider
+  interface; the shelved generation-2 proposal; phases 3-4.
 
 ---
 
