@@ -195,3 +195,12 @@
 {"run_id":"2026-08-15","cluster_hash":"65d6741624278b8f","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-15","cluster_hash":"6a1660f258ab8810","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-15","cluster_hash":"e51cde36288726a8","rank":9,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"'Unprecedented' rain kills four in Japan as thousands stranded at airport"}
+{"run_id":"2026-08-16","cluster_hash":"13f2ada18ba8568a","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-16","cluster_hash":"59d5753f3d5b4ee6","rank":2,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-16","cluster_hash":"f46fe5229d8d88bf","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-16","cluster_hash":"b33d6d364696d00d","rank":4,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-16","cluster_hash":"7e09d6475dc0c142","rank":5,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-16","cluster_hash":"a1a51985a37ca484","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-16","cluster_hash":"8e06a4fd35fa0c76","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-16","cluster_hash":"b6f783a903124e06","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-16","cluster_hash":"8aada32fa83ffcfb","rank":9,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"At least five people dead in Indiana amid worst flooding in over 30 years, officials say"}
