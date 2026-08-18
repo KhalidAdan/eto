@@ -213,3 +213,12 @@
 {"run_id":"2026-08-17","cluster_hash":"2c779bc30978d771","rank":7,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-17","cluster_hash":"c1e507e51add6360","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-17","cluster_hash":"1c9dd7e42f5c9072","rank":9,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history, killing over 2,300 and overwhelming healthcare systems."}
+{"run_id":"2026-08-18","cluster_hash":"552e7b4e69ab4500","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-18","cluster_hash":"4e327e0e2bb14db0","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-18","cluster_hash":"90f125cc887324d2","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-18","cluster_hash":"59bc0be05fa1ded8","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-18","cluster_hash":"70248d83889017eb","rank":5,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"a little bit better\"","fold_reason":null}
+{"run_id":"2026-08-18","cluster_hash":"da51bc32b38bb0ee","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-18","cluster_hash":"d40f635494af8fd4","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-18","cluster_hash":"3dae1b696790257d","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-18","cluster_hash":"3c36e172d2409358","rank":9,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Supreme Court's rejection of Trump's appeal in E. Jean Carroll case sets legal precedent for holding public figures accountable for sexual harassment, impacting survivors' ability to seek justice."}
