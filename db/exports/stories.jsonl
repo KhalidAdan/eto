@@ -240,3 +240,12 @@
 {"run_id":"2026-08-20","cluster_hash":"4a0080ce2f4c22e2","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-20","cluster_hash":"c51715f105c0af77","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-20","cluster_hash":"f7cdc78ab3740d76","rank":9,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Russian missile barrage kills at least 13 people in Ukraine’s Kyiv, directly impacting civilian safety and escalating regional conflict."}
+{"run_id":"2026-08-21","cluster_hash":"da9032fafa390751","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-21","cluster_hash":"c7c1e21099496fd4","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-21","cluster_hash":"00c5ec7a29e8d992","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-21","cluster_hash":"b02896c4cc00151f","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-21","cluster_hash":"389098575c2de884","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-21","cluster_hash":"ac0e3145737eabec","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-21","cluster_hash":"7f01d886a4b922d7","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-21","cluster_hash":"6f4c4e88d3a0634a","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-21","cluster_hash":"0336c45f2abf1627","rank":9,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Ebola outbreak kills over 2,500 and infects 5,000, overwhelming healthcare systems and threatening regional stability."}
