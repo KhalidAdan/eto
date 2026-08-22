@@ -249,3 +249,12 @@
 {"run_id":"2026-08-21","cluster_hash":"7f01d886a4b922d7","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-21","cluster_hash":"6f4c4e88d3a0634a","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-21","cluster_hash":"0336c45f2abf1627","rank":9,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Ebola outbreak kills over 2,500 and infects 5,000, overwhelming healthcare systems and threatening regional stability."}
+{"run_id":"2026-08-22","cluster_hash":"13221dc41a32be49","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-22","cluster_hash":"308e71937f13815c","rank":2,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-22","cluster_hash":"ce33b589704a2031","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-22","cluster_hash":"cef90cfc46b6890e","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-22","cluster_hash":"8a122c9c3e59e79a","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-22","cluster_hash":"7df475cfb2259253","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-22","cluster_hash":"989b08e5e654ecef","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-22","cluster_hash":"75fbb8fae5beba99","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-22","cluster_hash":"33a9254c4682a5eb","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent, threatening livelihoods and exacerbating poverty for millions."}
