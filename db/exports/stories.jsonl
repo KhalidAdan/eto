@@ -267,3 +267,12 @@
 {"run_id":"2026-08-23","cluster_hash":"f2d76132fddcc41e","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-23","cluster_hash":"843f7414bb8d576b","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-23","cluster_hash":"2e5317abc4a7c213","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Drastic water cuts issued for California, Nevada and Arizona from Colorado River threaten millions with severe drought impacts on health, agriculture, and daily life."}
+{"run_id":"2026-08-24","cluster_hash":"c17d79071f2a5717","rank":1,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-24","cluster_hash":"87f39021686a9475","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-24","cluster_hash":"b205de2efaf678c0","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-24","cluster_hash":"b3c1626ac586fb82","rank":4,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-24","cluster_hash":"33af303232c87079","rank":5,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-24","cluster_hash":"73f41f6f7bcacba8","rank":6,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-24","cluster_hash":"9e21b423e259deca","rank":7,"balance_note":"No source labeled lean-left or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-24","cluster_hash":"a384546cf2292650","rank":8,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-24","cluster_hash":"2c128bc2feb54083","rank":9,"balance_note":"No source labeled center or lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Hospital medication error leaves at least one patient paralyzed and three others injured after a drug used in executions was mistakenly administered."}
