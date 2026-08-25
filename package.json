@@ -24,7 +24,7 @@
     "@effect/platform-node": "latest",
     "@effect/sql": "latest",
     "@effect/sql-sqlite-node": "latest",
-    "@eto-press/press": "^2.20260816.2",
+    "@eto-press/press": "^2.20260825.0",
     "@mozilla/readability": "^0.6.0",
     "aws4fetch": "^1.0.20",
     "effect": "latest",
