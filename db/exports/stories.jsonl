@@ -285,3 +285,12 @@
 {"run_id":"2026-08-25","cluster_hash":"a9d929acff324386","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-25","cluster_hash":"be8339feee71e721","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-25","cluster_hash":"7f17fdd6152ca5a1","rank":9,"balance_note":"No source labeled center or lean-left or left covered this story.","status":"published","reason":null,"fold_reason":"Iranian hackers disabled UK power plant for four days, risking widespread electricity outages and threatening national infrastructure security."}
+{"run_id":"2026-08-26","cluster_hash":"d1b98f0736caf427","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-26","cluster_hash":"363aea30f37c5451","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-26","cluster_hash":"b3e67807e2eb352e","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-26","cluster_hash":"534228e6da9c6a25","rank":4,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-26","cluster_hash":"b56815a183c8d3d9","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-26","cluster_hash":"28ea0b281f74b6fc","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-26","cluster_hash":"4dea49d0a22bb330","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-26","cluster_hash":"f3d333980b534049","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-26","cluster_hash":"53b5ed38f3000ae4","rank":9,"balance_note":"No source labeled center or lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses, endangering student health and safety."}
