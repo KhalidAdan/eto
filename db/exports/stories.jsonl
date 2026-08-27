@@ -294,3 +294,12 @@
 {"run_id":"2026-08-26","cluster_hash":"4dea49d0a22bb330","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-26","cluster_hash":"f3d333980b534049","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-26","cluster_hash":"53b5ed38f3000ae4","rank":9,"balance_note":"No source labeled center or lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses, endangering student health and safety."}
+{"run_id":"2026-08-27","cluster_hash":"2e1115cb1b38fa66","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-27","cluster_hash":"c12c090e7954c5e8","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-27","cluster_hash":"4e2fa0c3e258030c","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-27","cluster_hash":"9667af9b05a2ca9c","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-27","cluster_hash":"6bc6c7302367c71a","rank":5,"balance_note":null,"status":"dropped","reason":"failed verification: word budget blown: 556 words (hard cap 420)","fold_reason":null}
+{"run_id":"2026-08-27","cluster_hash":"88ef0be0d154f3ef","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-27","cluster_hash":"83daa1bf9ca2f81c","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-27","cluster_hash":"1ddd5061c32ced5d","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-27","cluster_hash":"eab2d65302b3a873","rank":9,"balance_note":"No source labeled center or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry"}
