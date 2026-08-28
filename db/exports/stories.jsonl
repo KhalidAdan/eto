@@ -303,3 +303,12 @@
 {"run_id":"2026-08-27","cluster_hash":"83daa1bf9ca2f81c","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-27","cluster_hash":"1ddd5061c32ced5d","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-27","cluster_hash":"eab2d65302b3a873","rank":9,"balance_note":"No source labeled center or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Hospital nursery fire kills 14 newborns in Pakistan's capital, officials order immediate inquiry"}
+{"run_id":"2026-08-28","cluster_hash":"c558caf4e20e487b","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-28","cluster_hash":"7102e2e0e9d06b0d","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-28","cluster_hash":"6888316c5dd165ea","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-28","cluster_hash":"562cab98ae73fff5","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-28","cluster_hash":"14a69c38c04b23fa","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-28","cluster_hash":"637f2ada880412c0","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-28","cluster_hash":"e6d991b9be789047","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-28","cluster_hash":"c650366fc36ea4a4","rank":8,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-28","cluster_hash":"0ed97a3b575854e6","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"LaGuardia air traffic controllers leaving early before deadly collision, source says (concrete consequence: aviation safety crisis impacting public travel and potential loss of life)"}
