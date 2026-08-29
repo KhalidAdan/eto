@@ -312,3 +312,12 @@
 {"run_id":"2026-08-28","cluster_hash":"e6d991b9be789047","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-28","cluster_hash":"c650366fc36ea4a4","rank":8,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-28","cluster_hash":"0ed97a3b575854e6","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"LaGuardia air traffic controllers leaving early before deadly collision, source says (concrete consequence: aviation safety crisis impacting public travel and potential loss of life)"}
+{"run_id":"2026-08-29","cluster_hash":"5b2911545c4f0a1a","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-29","cluster_hash":"47e1ca2315ca9a61","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-29","cluster_hash":"3d0e9097fee4e881","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-29","cluster_hash":"2d6239683c3abe97","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-29","cluster_hash":"0999c52ad7b5addc","rank":5,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-29","cluster_hash":"5cf7e18832ea0922","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-29","cluster_hash":"46df619fad88ed12","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-29","cluster_hash":"23ee09e448877025","rank":8,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-29","cluster_hash":"007f94995f110604","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"National Guard's fatal shooting of a man in the back raises urgent questions about lethal force use and accountability in law enforcement."}
