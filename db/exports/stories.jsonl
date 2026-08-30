@@ -321,3 +321,12 @@
 {"run_id":"2026-08-29","cluster_hash":"46df619fad88ed12","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-29","cluster_hash":"23ee09e448877025","rank":8,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-29","cluster_hash":"007f94995f110604","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"National Guard's fatal shooting of a man in the back raises urgent questions about lethal force use and accountability in law enforcement."}
+{"run_id":"2026-08-30","cluster_hash":"b4d9183fb9450d1c","rank":1,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
+{"run_id":"2026-08-30","cluster_hash":"d730eefda2f38bc3","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-30","cluster_hash":"d5d9b57ac8f1a013","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-30","cluster_hash":"2fb729d831098133","rank":4,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-30","cluster_hash":"6a29e4637bf82e1f","rank":5,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-30","cluster_hash":"6f004a657f265be6","rank":6,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-30","cluster_hash":"fbc76f50f195b42c","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-30","cluster_hash":"d87f0dd04bdbc970","rank":8,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-08-30","cluster_hash":"232de8dd65fc62e0","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Six months into the Iran war, a new Gulf security architecture is emerging, displacing millions and disrupting global oil markets."}
