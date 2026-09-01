@@ -339,3 +339,12 @@
 {"run_id":"2026-08-31","cluster_hash":"0970d9df1ed2d10c","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-31","cluster_hash":"46a1d74c089cd510","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-08-31","cluster_hash":"82d6d99002b2201a","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Rising deaths in Nepal floods force urgent aid requests, endangering thousands' health and safety."}
+{"run_id":"2026-09-01","cluster_hash":"46c449e8fe154bb8","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-01","cluster_hash":"2a8ddc8e82ae04a8","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-01","cluster_hash":"382e0ef6e3435818","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-01","cluster_hash":"6d54db8c0943dd3f","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-01","cluster_hash":"587a1e4e5dcb2e6f","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-01","cluster_hash":"a105b9e4b4a45763","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-01","cluster_hash":"64fab08f5717888c","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-01","cluster_hash":"bcf13059e5ff0e81","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-01","cluster_hash":"e345c59ea1666f19","rank":9,"balance_note":"No source labeled lean-left or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Stolen fuel sold at Trump-promoted gas stations could endanger consumers' safety and cost them money, with a $4M lawsuit alleging fraud and potential health risks."}
