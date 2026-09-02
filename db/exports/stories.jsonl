@@ -348,3 +348,12 @@
 {"run_id":"2026-09-01","cluster_hash":"64fab08f5717888c","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-01","cluster_hash":"bcf13059e5ff0e81","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-01","cluster_hash":"e345c59ea1666f19","rank":9,"balance_note":"No source labeled lean-left or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Stolen fuel sold at Trump-promoted gas stations could endanger consumers' safety and cost them money, with a $4M lawsuit alleging fraud and potential health risks."}
+{"run_id":"2026-09-02","cluster_hash":"772164d2da232f24","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-02","cluster_hash":"428fe9ab27dcd907","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-02","cluster_hash":"0864c4e8045a963a","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-02","cluster_hash":"7a76fd8e87fcef67","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-02","cluster_hash":"481a420d08f02a76","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-02","cluster_hash":"e5048a2a4e771572","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-02","cluster_hash":"4f377d89f9a05c87","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-02","cluster_hash":"d0757a5421748f40","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-02","cluster_hash":"c96a3cb393fc93c6","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Amazon’s hidden ad fees could cost consumers and businesses billions, undermining trust in online marketplaces."}
