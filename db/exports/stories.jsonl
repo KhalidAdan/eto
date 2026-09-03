@@ -357,3 +357,12 @@
 {"run_id":"2026-09-02","cluster_hash":"4f377d89f9a05c87","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-02","cluster_hash":"d0757a5421748f40","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-02","cluster_hash":"c96a3cb393fc93c6","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Amazon’s hidden ad fees could cost consumers and businesses billions, undermining trust in online marketplaces."}
+{"run_id":"2026-09-03","cluster_hash":"239861b4ae7d47c6","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-03","cluster_hash":"0cb7effdcca7edb4","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-03","cluster_hash":"df89c0957e6aaa34","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-03","cluster_hash":"e3aba57d11a0089e","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-03","cluster_hash":"a72cb41e6276548b","rank":5,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-03","cluster_hash":"06b25c67411afb4f","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-03","cluster_hash":"0fd79120c3d7f09f","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-03","cluster_hash":"444699815509ca35","rank":8,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-03","cluster_hash":"46ca59e16a77faed","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Ebola death toll tops 3,000 in Congo outbreak, threatening healthcare systems and spreading rapidly across borders."}
