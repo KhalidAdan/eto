@@ -366,3 +366,12 @@
 {"run_id":"2026-09-03","cluster_hash":"0fd79120c3d7f09f","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-03","cluster_hash":"444699815509ca35","rank":8,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-03","cluster_hash":"46ca59e16a77faed","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Ebola death toll tops 3,000 in Congo outbreak, threatening healthcare systems and spreading rapidly across borders."}
+{"run_id":"2026-09-04","cluster_hash":"3c1159da978cb849","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-04","cluster_hash":"6fc8f1134c13cae0","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-04","cluster_hash":"f8c417d66c74a44f","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-04","cluster_hash":"b4fe77d67eabdc18","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-04","cluster_hash":"07af2d11656b7e1c","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-04","cluster_hash":"b8cb31b2be3587a3","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-04","cluster_hash":"609fa77d7ff7c54d","rank":7,"balance_note":null,"status":"dropped","reason":"failed verification: word budget blown: 460 words (hard cap 420)","fold_reason":null}
+{"run_id":"2026-09-04","cluster_hash":"57d15b53570157d9","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-04","cluster_hash":"149245f7db37f060","rank":9,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":"One sentence naming the concrete consequence that earns the slot: \"Trump's legal challenge to USPS mail voting rules threatens to disenfranchise millions of voters, undermining election access and integrity.\""}
