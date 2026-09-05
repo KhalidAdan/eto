@@ -375,3 +375,12 @@
 {"run_id":"2026-09-04","cluster_hash":"609fa77d7ff7c54d","rank":7,"balance_note":null,"status":"dropped","reason":"failed verification: word budget blown: 460 words (hard cap 420)","fold_reason":null}
 {"run_id":"2026-09-04","cluster_hash":"57d15b53570157d9","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-04","cluster_hash":"149245f7db37f060","rank":9,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":"One sentence naming the concrete consequence that earns the slot: \"Trump's legal challenge to USPS mail voting rules threatens to disenfranchise millions of voters, undermining election access and integrity.\""}
+{"run_id":"2026-09-05","cluster_hash":"dc21c4598c620dd1","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-05","cluster_hash":"c05d5ceabb6fc51a","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-05","cluster_hash":"bb3bda5957b0140a","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-05","cluster_hash":"78f7d80e58fbe63e","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-05","cluster_hash":"e8f4b58f79726308","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-05","cluster_hash":"75ac0485dffddc3c","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-05","cluster_hash":"96b69bc51f1b87a6","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-05","cluster_hash":"dd529f32c2b104cd","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-05","cluster_hash":"d4ef2eaf9e94edb9","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Volkswagen’s plan to cut 100,000 jobs by 2030 threatens livelihoods for thousands of workers, exacerbating economic instability."}
