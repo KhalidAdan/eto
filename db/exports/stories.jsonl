@@ -384,3 +384,12 @@
 {"run_id":"2026-09-05","cluster_hash":"96b69bc51f1b87a6","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-05","cluster_hash":"dd529f32c2b104cd","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-05","cluster_hash":"d4ef2eaf9e94edb9","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Volkswagen’s plan to cut 100,000 jobs by 2030 threatens livelihoods for thousands of workers, exacerbating economic instability."}
+{"run_id":"2026-09-06","cluster_hash":"61fd157cf145a78c","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-06","cluster_hash":"bdbaf70769b62424","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-06","cluster_hash":"d9d9087b880529cd","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-06","cluster_hash":"c9aa916fdb26d371","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-06","cluster_hash":"e2f0579e1b6fb2b6","rank":5,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-06","cluster_hash":"37f3091c139521d9","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-06","cluster_hash":"dc9794dad2ae70fc","rank":7,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-06","cluster_hash":"eb09766b278f8242","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-06","cluster_hash":"05d03eb5a74808fd","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Epinephrine injection recall poses life-threatening risks for individuals reliant on the medication for severe allergies."}
