@@ -393,3 +393,12 @@
 {"run_id":"2026-09-06","cluster_hash":"dc9794dad2ae70fc","rank":7,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-06","cluster_hash":"eb09766b278f8242","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-06","cluster_hash":"05d03eb5a74808fd","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Epinephrine injection recall poses life-threatening risks for individuals reliant on the medication for severe allergies."}
+{"run_id":"2026-09-07","cluster_hash":"f23d8fb35a0e5dbd","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-07","cluster_hash":"3185f886a885db92","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-07","cluster_hash":"1ab4d7f42613d596","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-07","cluster_hash":"b42269c8c57175b6","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-07","cluster_hash":"1885ca7877366143","rank":5,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-07","cluster_hash":"ae938babdc68afc0","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-07","cluster_hash":"e40f917e4760e604","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-07","cluster_hash":"3e1f719b30d48f08","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-07","cluster_hash":"cc0a723adb52b15d","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Ending $45M HIV support in Namibia risks worsening health crises for millions reliant on the program."}
