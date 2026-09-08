@@ -402,3 +402,12 @@
 {"run_id":"2026-09-07","cluster_hash":"e40f917e4760e604","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-07","cluster_hash":"3e1f719b30d48f08","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-07","cluster_hash":"cc0a723adb52b15d","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Ending $45M HIV support in Namibia risks worsening health crises for millions reliant on the program."}
+{"run_id":"2026-09-08","cluster_hash":"3bda197513d744b6","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-08","cluster_hash":"8688e921baa382b6","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-08","cluster_hash":"b4dbb73353ef5a5f","rank":3,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-08","cluster_hash":"04d245e0b49e3fb5","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-08","cluster_hash":"b0db2eb7f5854f04","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-08","cluster_hash":"7b56e2cf92960227","rank":6,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-08","cluster_hash":"a089d20e6944c795","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-08","cluster_hash":"74e6c78bfeaf5077","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-08","cluster_hash":"155fa648cae6d750","rank":9,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":"Listeria contamination risk in recalled pork threatens public health, endangering vulnerable populations across eight states."}
