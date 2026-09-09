@@ -411,3 +411,12 @@
 {"run_id":"2026-09-08","cluster_hash":"a089d20e6944c795","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-08","cluster_hash":"74e6c78bfeaf5077","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-08","cluster_hash":"155fa648cae6d750","rank":9,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":"Listeria contamination risk in recalled pork threatens public health, endangering vulnerable populations across eight states."}
+{"run_id":"2026-09-09","cluster_hash":"21bd5ae723069e4e","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-09","cluster_hash":"9235a61e7a1a4c83","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-09","cluster_hash":"7484cd57cc766940","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-09","cluster_hash":"e57bad8f516ecaeb","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-09","cluster_hash":"0d58d93c6fd03d6d","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-09","cluster_hash":"d3133dc590ea52a7","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-09","cluster_hash":"d56ba5de4bff8d02","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-09","cluster_hash":"60126fa2eb21f853","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-09","cluster_hash":"2b95ec1f63d199db","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"GLP-1 prescriptions for kids up more than 30,000% since 2019, risking widespread health impacts and long-term consequences for pediatric patients."}
