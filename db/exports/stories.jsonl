@@ -420,3 +420,12 @@
 {"run_id":"2026-09-09","cluster_hash":"d56ba5de4bff8d02","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-09","cluster_hash":"60126fa2eb21f853","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-09","cluster_hash":"2b95ec1f63d199db","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"GLP-1 prescriptions for kids up more than 30,000% since 2019, risking widespread health impacts and long-term consequences for pediatric patients."}
+{"run_id":"2026-09-10","cluster_hash":"5d1b2768a0572f4f","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-10","cluster_hash":"bd3bdff894e9d130","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-10","cluster_hash":"5c26d5959aca61e6","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-10","cluster_hash":"68a1df2167e61d21","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-10","cluster_hash":"7cdefdaf53757dc2","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-10","cluster_hash":"3d825a657b20d75e","rank":6,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-10","cluster_hash":"1c35d03afc975a2c","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-10","cluster_hash":"3122cc8c607139f2","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-10","cluster_hash":"a75d86804b057a9f","rank":9,"balance_note":"No source labeled center or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"UK air traffic chaos disrupts flights for hundreds of thousands of passengers, causing widespread travel delays and financial losses."}
