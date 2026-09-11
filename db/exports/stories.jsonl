@@ -429,3 +429,12 @@
 {"run_id":"2026-09-10","cluster_hash":"1c35d03afc975a2c","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-10","cluster_hash":"3122cc8c607139f2","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-10","cluster_hash":"a75d86804b057a9f","rank":9,"balance_note":"No source labeled center or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"UK air traffic chaos disrupts flights for hundreds of thousands of passengers, causing widespread travel delays and financial losses."}
+{"run_id":"2026-09-11","cluster_hash":"7f22808b7c935c78","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-11","cluster_hash":"776539859878ebf8","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-11","cluster_hash":"6fd140a94c53f057","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-11","cluster_hash":"4f2e4ded438ee764","rank":4,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-11","cluster_hash":"4b2f1993956ec8e4","rank":5,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-11","cluster_hash":"d6cfb80b56e98782","rank":6,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-11","cluster_hash":"051b92cc3faf74a6","rank":7,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-11","cluster_hash":"1f25ea804b48b084","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-11","cluster_hash":"0fa697badc45b24b","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"North Korea's new uranium facility threatens global nuclear security and escalates regional tensions, risking catastrophic consequences for international peace."}
