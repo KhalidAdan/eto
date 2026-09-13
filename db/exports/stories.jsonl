@@ -447,3 +447,12 @@
 {"run_id":"2026-09-12","cluster_hash":"1b8fb3371807ffee","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-12","cluster_hash":"555ec52f98169328","rank":8,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-12","cluster_hash":"2e8bd6eb9f4a1756","rank":9,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Pilot warnings about aircraft speed before deadly crash highlight systemic safety failures in cargo aviation, risking lives and prompting regulatory scrutiny."}
+{"run_id":"2026-09-13","cluster_hash":"638e29e8dfaf7fa0","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-13","cluster_hash":"63b7c3fd106ae742","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-13","cluster_hash":"1abb5aac4a710775","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-13","cluster_hash":"3d1eb3abe12a82b5","rank":4,"balance_note":"No source labeled lean-left or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-13","cluster_hash":"2a8a4a480975509a","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-13","cluster_hash":"0762e04aa79257b2","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-13","cluster_hash":"b3f4aee476a71121","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-13","cluster_hash":"04babe287b4aebfd","rank":8,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-13","cluster_hash":"97fa0ad149525de5","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Millions face food insecurity as SNAP funding uncertainty threatens access to essential assistance."}
