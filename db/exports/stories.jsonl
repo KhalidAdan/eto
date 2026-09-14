@@ -456,3 +456,12 @@
 {"run_id":"2026-09-13","cluster_hash":"b3f4aee476a71121","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-13","cluster_hash":"04babe287b4aebfd","rank":8,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-13","cluster_hash":"97fa0ad149525de5","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Millions face food insecurity as SNAP funding uncertainty threatens access to essential assistance."}
+{"run_id":"2026-09-14","cluster_hash":"d93f8c5a379c4164","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-14","cluster_hash":"d86dd67c1ca88a2e","rank":2,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-14","cluster_hash":"de6a8922aff1e37b","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-14","cluster_hash":"582c6508971d466e","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-14","cluster_hash":"0f44bfd2769dc67b","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-14","cluster_hash":"a92f2d1e2314125a","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-14","cluster_hash":"bdbd645b86a4262a","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-14","cluster_hash":"48aedaa889f4d42a","rank":8,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-14","cluster_hash":"97fa0ad149525de5","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Millions face food insecurity as SNAP funding uncertainty threatens access to critical assistance"}
