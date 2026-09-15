@@ -465,3 +465,12 @@
 {"run_id":"2026-09-14","cluster_hash":"bdbd645b86a4262a","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-14","cluster_hash":"48aedaa889f4d42a","rank":8,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-14","cluster_hash":"97fa0ad149525de5","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Millions face food insecurity as SNAP funding uncertainty threatens access to critical assistance"}
+{"run_id":"2026-09-15","cluster_hash":"3efc14f5def40183","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-15","cluster_hash":"c7f019d62373bd5c","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-15","cluster_hash":"4ffdb2dacb6e2594","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-15","cluster_hash":"6ab9e8def49f7ca8","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-15","cluster_hash":"b02fd59d8f197b02","rank":5,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-15","cluster_hash":"ff2531c814c800a3","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-15","cluster_hash":"6e450e52b7bdda92","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-15","cluster_hash":"04f7414b32eac5d9","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-15","cluster_hash":"8603413379329e8b","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Scrapping emissions limits on coal and gas plants threatens public health and accelerates climate change, endangering millions."}
