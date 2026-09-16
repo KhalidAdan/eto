@@ -474,3 +474,12 @@
 {"run_id":"2026-09-15","cluster_hash":"6e450e52b7bdda92","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-15","cluster_hash":"04f7414b32eac5d9","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-15","cluster_hash":"8603413379329e8b","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Scrapping emissions limits on coal and gas plants threatens public health and accelerates climate change, endangering millions."}
+{"run_id":"2026-09-16","cluster_hash":"c10e06ae763d0d2d","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-16","cluster_hash":"5f8e7905371fcd5e","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-16","cluster_hash":"15059737de5cc874","rank":3,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"rallied other stadium owners\"; quote not found in any account: \"rallied other stadium owners\"","fold_reason":null}
+{"run_id":"2026-09-16","cluster_hash":"4ebe7ed4578bad72","rank":4,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-16","cluster_hash":"8d0037e3f90d8a41","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-16","cluster_hash":"cbb50a1f699516f5","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-16","cluster_hash":"7f26a89b9ebc9275","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-16","cluster_hash":"b62c054dc53412e3","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-16","cluster_hash":"3ac5a9e28987a13d","rank":9,"balance_note":"No source labeled center or lean-left or left covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Over 870,000 people suspected of COVID-era fraud are barred from federal loans, impacting their financial stability and access to credit."}
