@@ -483,3 +483,12 @@
 {"run_id":"2026-09-16","cluster_hash":"7f26a89b9ebc9275","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-16","cluster_hash":"b62c054dc53412e3","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-16","cluster_hash":"3ac5a9e28987a13d","rank":9,"balance_note":"No source labeled center or lean-left or left covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Over 870,000 people suspected of COVID-era fraud are barred from federal loans, impacting their financial stability and access to credit."}
+{"run_id":"2026-09-17","cluster_hash":"6fded10696bf4d76","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-17","cluster_hash":"817f32c469ef96f2","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-17","cluster_hash":"2bb254a301563ccb","rank":3,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"bully[ed] and cajoled by the radical left\"; quote not found in any account: \"incalculable damage\"; quote not found in any account: \"become a shell of their original se","fold_reason":null}
+{"run_id":"2026-09-17","cluster_hash":"c5ea629d004bfa45","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-17","cluster_hash":"f312a8bbf3ef18af","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-17","cluster_hash":"6c8322f0ff72e69e","rank":6,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-17","cluster_hash":"2a9952c36f08870b","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-17","cluster_hash":"2444daad7a5ccbab","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-17","cluster_hash":"cd40d5d4e8b71a4d","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Climate change-linked Nepal-Tibet floods displaced thousands, destroying homes and livelihoods while worsening global climate crisis impacts."}
