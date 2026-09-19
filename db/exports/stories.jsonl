@@ -501,3 +501,12 @@
 {"run_id":"2026-09-18","cluster_hash":"af08356e80109617","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-18","cluster_hash":"deb8b739a2927e61","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-18","cluster_hash":"66f194ca5af6374c","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Over 300 women suffered unnecessary breast removals, leading to physical harm and long-term health complications."}
+{"run_id":"2026-09-19","cluster_hash":"f3c9e71a91db89bf","rank":1,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"others to follow\"","fold_reason":null}
+{"run_id":"2026-09-19","cluster_hash":"5b5fb91699d70d95","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-19","cluster_hash":"27621b64774c436a","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-19","cluster_hash":"fdb8440aa108bbc2","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-19","cluster_hash":"7483e1fdb86b8af0","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-19","cluster_hash":"28adfa226f739436","rank":6,"balance_note":null,"status":"dropped","reason":"failed verification: quote not found in any account: \"liberal feminists\"","fold_reason":null}
+{"run_id":"2026-09-19","cluster_hash":"722a5fe8d0620ab9","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-19","cluster_hash":"83654901a34fde25","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-19","cluster_hash":"63aa9ff91126f949","rank":9,"balance_note":"No source labeled center or lean-left or left covered this story.","status":"published","reason":null,"fold_reason":"Illegal foreign donations to Democratic fundraising platform ActBlue could undermine election integrity and democratic processes for millions of voters."}
