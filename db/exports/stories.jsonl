@@ -510,3 +510,12 @@
 {"run_id":"2026-09-19","cluster_hash":"722a5fe8d0620ab9","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-19","cluster_hash":"83654901a34fde25","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-19","cluster_hash":"63aa9ff91126f949","rank":9,"balance_note":"No source labeled center or lean-left or left covered this story.","status":"published","reason":null,"fold_reason":"Illegal foreign donations to Democratic fundraising platform ActBlue could undermine election integrity and democratic processes for millions of voters."}
+{"run_id":"2026-09-20","cluster_hash":"b55acf81782b0b5b","rank":1,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
+{"run_id":"2026-09-20","cluster_hash":"d77b6f83a202aabc","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-20","cluster_hash":"424353f0b1b4e75b","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-20","cluster_hash":"edf82139246e2657","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-20","cluster_hash":"a85c0c596aefd1f4","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-20","cluster_hash":"f6d52259399569e2","rank":6,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-20","cluster_hash":"2b7accb5117b3c85","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-20","cluster_hash":"c46e16def986b67f","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-20","cluster_hash":"535741266d0701a9","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"37 people died in a Nigerian prison cell due to unsafe conditions, causing panic and health crises for survivors."}
