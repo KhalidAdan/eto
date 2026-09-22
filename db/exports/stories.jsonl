@@ -528,3 +528,12 @@
 {"run_id":"2026-09-21","cluster_hash":"29129e9134604963","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-21","cluster_hash":"83dc6c5d98aca1ea","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-21","cluster_hash":"2bcea7a0e31cae69","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Refineries now being the main chokepoint for global energy supplies will force millions to pay higher heating bills this winter."}
+{"run_id":"2026-09-22","cluster_hash":"f9d5d4cfbc64a450","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-22","cluster_hash":"dce6d132abf981a5","rank":2,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-22","cluster_hash":"e9234daba3a53e4c","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-22","cluster_hash":"29f12a61b9d72caf","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-22","cluster_hash":"c5d1acf0caa593d7","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-22","cluster_hash":"a19da52fb33a62a2","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-22","cluster_hash":"3c77e4188889bfcf","rank":7,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-22","cluster_hash":"4531e0af9894f3e2","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-22","cluster_hash":"588721a47796b468","rank":9,"balance_note":"No source labeled center or lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Massachusetts expands home surveillance of new moms, infringing on privacy and maternal health rights."}
