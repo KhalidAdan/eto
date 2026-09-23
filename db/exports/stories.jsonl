@@ -537,3 +537,12 @@
 {"run_id":"2026-09-22","cluster_hash":"3c77e4188889bfcf","rank":7,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-22","cluster_hash":"4531e0af9894f3e2","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-22","cluster_hash":"588721a47796b468","rank":9,"balance_note":"No source labeled center or lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Massachusetts expands home surveillance of new moms, infringing on privacy and maternal health rights."}
+{"run_id":"2026-09-23","cluster_hash":"76918612f30305a3","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-23","cluster_hash":"4c40db96d737c7da","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-23","cluster_hash":"1aa781c27da05914","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-23","cluster_hash":"a97f5a1f7e673a77","rank":4,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-23","cluster_hash":"e3eff1b4dfd945c9","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-23","cluster_hash":"ff1ff235560e1591","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-23","cluster_hash":"7dd7db04217b6957","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-23","cluster_hash":"c1899885e0e8f09c","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-23","cluster_hash":"1fa158f4cde333c4","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Patients face potential vision loss and legal battles over safety risks from widely used GLP-1 drugs."}
