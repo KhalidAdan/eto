@@ -546,3 +546,12 @@
 {"run_id":"2026-09-23","cluster_hash":"7dd7db04217b6957","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-23","cluster_hash":"c1899885e0e8f09c","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-23","cluster_hash":"1fa158f4cde333c4","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Patients face potential vision loss and legal battles over safety risks from widely used GLP-1 drugs."}
+{"run_id":"2026-09-24","cluster_hash":"15f5d4c691d41b5f","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-24","cluster_hash":"53612ec0a03bcd9a","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-24","cluster_hash":"154da6aed9ccfdf2","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-24","cluster_hash":"8e0579c45b1efc18","rank":4,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-24","cluster_hash":"de561072594c43cb","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-24","cluster_hash":"664111b91160ac3d","rank":6,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-24","cluster_hash":"4e8212377eec3477","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-24","cluster_hash":"632180b444a81516","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-24","cluster_hash":"74a65160fe94c93c","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Thousands of patients face potential vision loss and legal battles over the health risks of widely used GLP-1 drugs."}
