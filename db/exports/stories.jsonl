@@ -555,3 +555,12 @@
 {"run_id":"2026-09-24","cluster_hash":"4e8212377eec3477","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-24","cluster_hash":"632180b444a81516","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-24","cluster_hash":"74a65160fe94c93c","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Thousands of patients face potential vision loss and legal battles over the health risks of widely used GLP-1 drugs."}
+{"run_id":"2026-09-25","cluster_hash":"cb521e657ea7dc38","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-25","cluster_hash":"805a24a096899028","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-25","cluster_hash":"4777939bf4055808","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-25","cluster_hash":"117530ff606cbfce","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-25","cluster_hash":"da7f659d4d9aab37","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-25","cluster_hash":"e60de824bf6cd85e","rank":6,"balance_note":"No source labeled lean-left covered this story.","status":"dropped","reason":"failed verification: quote not found in any account: \"concerned new jersey resident\"","fold_reason":null}
+{"run_id":"2026-09-25","cluster_hash":"76796a8bdbe314da","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-25","cluster_hash":"3abd74630d4827d9","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-25","cluster_hash":"027dc149318c08c2","rank":9,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Ole Miss deaths, druggings have ‘people scared to leave’ dorms as bars, Greek life clamp down: students"}
