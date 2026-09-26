@@ -4,6 +4,7 @@ dist/
 lab/output/
 
 .claude/
+.wrangler/
 logs/
 .env
 !db/exports/
