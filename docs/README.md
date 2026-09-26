@@ -1,9 +1,20 @@
 # The paper's documents
 
-Two documents are this paper's own:
+These documents are this paper's own:
 
-- **[NORTH-STAR.md](NORTH-STAR.md)** — the constitution. The press's copy is
-  the same text; this one is the paper's.
+- **[NORTH-STAR.md](NORTH-STAR.md)** — the paper's constitution: the
+  standards every section keeps. The press's copy is the same text; this
+  one is the paper's. Since 2026-09-26 the paper is sections, and each
+  section has a document of its own weight:
+  - **[sections/brief.md](sections/brief.md)** — the Current events brief's
+    constitution: the founding North Star, moved here unchanged. Where the
+    code says *NORTH-STAR §n*, it means this document's numbering.
+  - **[sections/business.md](sections/business.md)**,
+    **[sections/sports.md](sections/sports.md)**,
+    **[sections/blogs.md](sections/blogs.md)** — desk notes: what each
+    desk is, what it is not, what the editor may change without ceremony.
+    None of the three prints yet; they arrive with press generation 3
+    (the proposal is `eto-press/docs/PROPOSAL-SECTIONS.md`).
 - **[DEPLOY.md](DEPLOY.md)** — how eto.news reaches its readers: the
   paperboy, GitHub as the loading dock, Cloudflare Pages as the newsstand.
 
