@@ -7,8 +7,7 @@
   "scripts": {
     "dev": "tsx node_modules/@eto-press/press/src/main.ts",
     "gen:functions": "tsx node_modules/@eto-press/press/src/gen-functions-config.ts",
-    "build:css": "tailwindcss -i brief.css -o site/brief.css --minify",
-    "render": "npm run gen:functions && npm run build:css && tsx node_modules/@eto-press/press/src/render-site.ts",
+    "render": "npm run gen:functions && tsx node_modules/@eto-press/press/src/render-site.ts",
     "email": "tsx node_modules/@eto-press/press/src/send-edition.ts",
     "correct": "tsx node_modules/@eto-press/press/src/correct.ts",
     "export": "tsx node_modules/@eto-press/press/src/export-journal.ts",
@@ -16,14 +15,12 @@
     "backup:readers": "tsx node_modules/@eto-press/press/src/backup-readers.ts"
   },
   "dependencies": {
-    "@eto-press/press": "^2.20260825.0",
+    "@eto-press/press": "^2.20260926.0",
     "aws4fetch": "^1.0.20"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20260726.1",
-    "@tailwindcss/cli": "^4.3.3",
     "@types/node": "^24.0.0",
-    "tailwindcss": "^4.3.3",
     "tsx": "^4.19.0",
     "typescript": "^5.6.0",
     "wrangler": "^4.114.0"

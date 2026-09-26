@@ -1,5 +1,5 @@
-// GENERATED from eto.toml by src/gen-functions-config.ts — do not edit.
-// Refreshed by `npm run render`; commit alongside the edition.
+// GENERATED from eto.toml by `eto gen-functions` — do not edit.
+// Refresh it after changing eto.toml; commit alongside the edition.
 export const NAME = "eto"
 export const MOTTO = "Each story. Every side."
 export const MOTTO_INLINE = "each story, every side"
