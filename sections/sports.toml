@@ -1,0 +1,64 @@
+# Sports — last night's games and the writers worth reading about them.
+#
+# The desk note is docs/sections/sports.md. This file is the desk's
+# editorial line: change it without ceremony. The ledger engine prints:
+#
+#   boards  — the scores: a list door (kind = "list") reads one JSON
+#             endpoint and prints one row per game, from the label and
+#             value templates, for games within window_hours of the
+#             morning — last night's, not last season's;
+#   columns — the editor's own signed pieces, in desk/sports/
+#             ("# headline", then "by: Name", then the take);
+#   shelves — every other source is a feed; each new post prints as one
+#             row with a one-line deck.
+#
+# Shams Charania publishes on X, which is not a front door (no feed, and
+# reading it would mean pretending to be a browser). His reporting arrives
+# attributed: ESPN runs it as its "Sources:" stories, Hoops Rumors credits
+# him by name. ESPN's and the NBA's own scoreboards refuse an honest
+# reader (403), so the scores come from TheSportsDB's published free key.
+# Every door and feed below answered an honest reader on 2026-09-27; the
+# NBA preseason starts 2026-10-03, so the scores board is empty until then.
+
+# ---- the scores --------------------------------------------------------
+
+[[source]]
+name = "NBA results"
+side = "Scores"
+kind = "list"
+feeds = ["https://www.thesportsdb.com/api/v1/json/123/eventspastleague.php?id=4387#events"]
+label = "{strAwayTeam} @ {strHomeTeam}"
+value = "{intAwayScore}–{intHomeScore}"
+when = "strTimestamp"
+window_hours = 36
+
+# ---- trade talk --------------------------------------------------------
+
+[[source]]
+name = "Hoops Rumors"
+side = "Trade talk"
+feeds = ["https://www.hoopsrumors.com/feed"]
+
+[[source]]
+name = "RealGM"
+side = "Trade talk"
+feeds = ["https://basketball.realgm.com/rss/wiretap/0/0.xml"]
+
+# ---- the news ----------------------------------------------------------
+
+[[source]]
+name = "ESPN NBA"
+side = "News"
+feeds = ["https://www.espn.com/espn/rss/nba/news"]
+
+[[source]]
+name = "CBS Sports NBA"
+side = "News"
+feeds = ["https://www.cbssports.com/rss/headlines/nba/"]
+
+# ---- the home team -----------------------------------------------------
+
+[[source]]
+name = "Raptors Republic"
+side = "Raptors"
+feeds = ["https://www.raptorsrepublic.com/feed/"]

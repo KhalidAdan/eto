@@ -13,8 +13,11 @@ These documents are this paper's own:
     **[sections/sports.md](sections/sports.md)**,
     **[sections/blogs.md](sections/blogs.md)** — desk notes: what each
     desk is, what it is not, what the editor may change without ceremony.
-    None of the three prints yet; they arrive with press generation 3
-    (the proposal is `eto-press/docs/PROPOSAL-SECTIONS.md`).
+    Business and sports are declared in `eto.toml` since 2026-09-27, their
+    editorial lines in `sections/business.toml` and `sections/sports.toml`
+    and their columns in `desk/business/` and `desk/sports/`; they print
+    from press generation 3 (the proposal is
+    `eto-press/docs/PROPOSAL-SECTIONS.md`). Blogs is not declared yet.
 - **[DEPLOY.md](DEPLOY.md)** — how eto.news reaches its readers: the
   paperboy, GitHub as the loading dock, Cloudflare Pages as the newsstand.
 

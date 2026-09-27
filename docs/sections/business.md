@@ -2,8 +2,9 @@
 
 *A desk note, not a constitution. The brief's constitution can move a
 vote; this desk can be changed by its editor without ceremony, and this
-note says which parts. Drafted 2026-09-26. The section is not yet
-printing: it arrives with press generation 3 and the ledger engine.*
+note says which parts. Drafted 2026-09-26; declared 2026-09-27, its editorial line in
+`sections/business.toml`. It prints from press generation 3, on the ledger
+engine.*
 
 ## What it is
 

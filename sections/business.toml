@@ -1,0 +1,84 @@
+# Business — the lay of the land as of yesterday.
+#
+# The desk note is docs/sections/business.md. This file is the desk's
+# editorial line: change it without ceremony. The ledger engine prints it
+# in three parts, in this order:
+#
+#   boards  — sources with kind = "door": one figure each, read from a
+#             data endpoint (the value's path after the #), printed with
+#             its motion since the last edition;
+#   columns — the editor's own signed pieces, in desk/business/;
+#   shelves — every other source is a feed; each new post prints as one
+#             row with a one-line deck (the outlet's own blurb, or the
+#             desk's, caged).
+#
+# Every door and feed below answered an honest reader on 2026-09-27.
+# The Wall Street Journal's feeds are left out: they still respond, but
+# nothing new has appeared in them since January 2025.
+
+# ---- the board ---------------------------------------------------------
+
+[[source]]
+name = "S&P 500"
+side = "Markets"
+kind = "door"
+feeds = ["https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=1d&interval=1d#chart.result.0.meta.regularMarketPrice"]
+
+[[source]]
+name = "S&P/TSX"
+side = "Markets"
+kind = "door"
+feeds = ["https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPTSE?range=1d&interval=1d#chart.result.0.meta.regularMarketPrice"]
+
+[[source]]
+name = "USD/CAD"
+side = "Markets"
+kind = "door"
+feeds = ["https://www.bankofcanada.ca/valet/observations/FXUSDCAD/json?recent=1#observations.0.FXUSDCAD.v"]
+
+[[source]]
+name = "Bank of Canada overnight rate"
+side = "Markets"
+kind = "door"
+feeds = ["https://www.bankofcanada.ca/valet/observations/V39079/json?recent=1#observations.0.V39079.v"]
+
+# ---- the news ----------------------------------------------------------
+
+# MarketWatch's top stories are the brief's (sources.toml); a feed belongs
+# to one section, so the business desk reads the bulletins feed.
+[[source]]
+name = "MarketWatch"
+side = "Business news"
+feeds = ["https://feeds.content.dowjones.io/public/rss/mw_bulletins"]
+
+[[source]]
+name = "Bloomberg"
+side = "Business news"
+feeds = ["https://feeds.bloomberg.com/markets/news.rss"]
+
+[[source]]
+name = "Financial Times"
+side = "Business news"
+feeds = ["https://www.ft.com/markets?format=rss"]
+
+[[source]]
+name = "Financial Post"
+side = "Business news"
+feeds = ["https://financialpost.com/feed"]
+
+[[source]]
+name = "The Globe and Mail"
+side = "Business news"
+feeds = ["https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/"]
+
+# ---- the writers -------------------------------------------------------
+
+[[source]]
+name = "Calculated Risk"
+side = "Writers"
+feeds = ["https://www.calculatedriskblog.com/feeds/posts/default"]
+
+[[source]]
+name = "Apricitas Economics"
+side = "Writers"
+feeds = ["https://www.apricitas.io/feed"]
