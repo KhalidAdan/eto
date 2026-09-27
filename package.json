@@ -15,7 +15,7 @@
     "backup:readers": "tsx node_modules/@eto-press/press/src/backup-readers.ts"
   },
   "dependencies": {
-    "@eto-press/press": "^2.20260926.0",
+    "@eto-press/press": "^3.20260926.0",
     "aws4fetch": "^1.0.20"
   },
   "devDependencies": {
