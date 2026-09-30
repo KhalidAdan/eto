@@ -600,3 +600,12 @@
 {"run_id":"2026-09-29","cluster_hash":"7cc5e2d831127cf1","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-29","cluster_hash":"a750c713d5a4a26a","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-29","cluster_hash":"293f2ef5d328995c","rank":9,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Mass shootings in South Africa kill 38 people in a week, escalating violence and threatening public safety."}
+{"run_id":"2026-09-30","cluster_hash":"430d8e9448744e7a","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-30","cluster_hash":"84d375faa807091e","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-30","cluster_hash":"3ace045eb9f07ec4","rank":3,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-30","cluster_hash":"4798cad22187a21d","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-30","cluster_hash":"a2d7d0bd465f13c1","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-30","cluster_hash":"57964280e1e73c4c","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-30","cluster_hash":"fa5f3b2d9dbadffe","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-30","cluster_hash":"5100955d9ed3a3b8","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-09-30","cluster_hash":"648b6e490545edf7","rank":9,"balance_note":"No source labeled lean-right or left covered this story.","status":"dropped","reason":"failed verification: word budget blown: 461 words (hard cap 420)","fold_reason":"The U.S. military withdrawal from Iraq could destabilize the region, risking renewed violence and threatening the safety of civilians and security forces alike."}
