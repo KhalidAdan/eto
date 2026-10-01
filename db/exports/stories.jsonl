@@ -609,3 +609,12 @@
 {"run_id":"2026-09-30","cluster_hash":"fa5f3b2d9dbadffe","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-30","cluster_hash":"5100955d9ed3a3b8","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-09-30","cluster_hash":"648b6e490545edf7","rank":9,"balance_note":"No source labeled lean-right or left covered this story.","status":"dropped","reason":"failed verification: word budget blown: 461 words (hard cap 420)","fold_reason":"The U.S. military withdrawal from Iraq could destabilize the region, risking renewed violence and threatening the safety of civilians and security forces alike."}
+{"run_id":"2026-10-01","cluster_hash":"214bd4f247b00a2e","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-01","cluster_hash":"b2f779f7b0c1a2e2","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-01","cluster_hash":"46e6e5a8d586d875","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-01","cluster_hash":"b5233495b50e8d18","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-01","cluster_hash":"6e50848fed7d6fd1","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-01","cluster_hash":"0dc863652f3f285d","rank":6,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-01","cluster_hash":"2ecfdb42e24527c9","rank":7,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-01","cluster_hash":"e19c91b00660f48e","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-01","cluster_hash":"73560160c85fdde6","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Spain's eviction ban after protests prevents displacement of vulnerable residents, ensuring housing rights for thousands."}
