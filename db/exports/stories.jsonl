@@ -636,3 +636,12 @@
 {"run_id":"2026-10-03","cluster_hash":"2789df5834ac7846","rank":7,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-03","cluster_hash":"50f226cf07778c93","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"dropped","reason":"failed verification: word budget blown: 629 words (hard cap 420)","fold_reason":null}
 {"run_id":"2026-10-03","cluster_hash":"4b7915f1fc3564d2","rank":9,"balance_note":"No source labeled center or lean-left or right covered this story.","status":"published","reason":null,"fold_reason":"Cyclospora outbreak linked to lettuce sickens hundreds, prompting FDA recall and threatening public health"}
+{"run_id":"2026-10-04","cluster_hash":"400daa3416d5945d","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-04","cluster_hash":"8311feab1a683a37","rank":2,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-04","cluster_hash":"bfbc8285eb6ccafb","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-04","cluster_hash":"f693a9210948bc0b","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-04","cluster_hash":"1a5726fc16763098","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-04","cluster_hash":"e15e5de6fe3226ff","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-04","cluster_hash":"d138202118a503ac","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-04","cluster_hash":"bf171297d4e67ef9","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-04","cluster_hash":"102047fab32877f1","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Mass protests in Spain over housing crisis highlight systemic eviction threats endangering thousands' homes and livelihoods."}
