@@ -645,3 +645,12 @@
 {"run_id":"2026-10-04","cluster_hash":"d138202118a503ac","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-04","cluster_hash":"bf171297d4e67ef9","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-04","cluster_hash":"102047fab32877f1","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Mass protests in Spain over housing crisis highlight systemic eviction threats endangering thousands' homes and livelihoods."}
+{"run_id":"2026-10-05","cluster_hash":"97e54551a37225f2","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-05","cluster_hash":"9bd78b0fb819852d","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-05","cluster_hash":"c2e099ee477fac64","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-05","cluster_hash":"bf1d074dd8a7ca15","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-05","cluster_hash":"c6d70f2de7342e7d","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-05","cluster_hash":"6da27279744e1149","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-05","cluster_hash":"edc94bd816290a39","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-05","cluster_hash":"3ad3fc7b2dd7c9c2","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-05","cluster_hash":"b1d389473d6bd8db","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (0)","fold_reason":"Couple convicted of stealing millions from elderly, disabled, homeless Americans, leaving many without critical financial support"}
