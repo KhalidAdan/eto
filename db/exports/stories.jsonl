@@ -663,3 +663,12 @@
 {"run_id":"2026-10-06","cluster_hash":"0dd8a208628527cb","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-06","cluster_hash":"f2ac72de2a5b7135","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-06","cluster_hash":"e53a734d9b880811","rank":9,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Mass shootings leave two people dead in Georgia and 12-year-old girl dead in Baltimore, sparking community trauma and renewed calls for gun reform."}
+{"run_id":"2026-10-07","cluster_hash":"92ca7db1456dc546","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-07","cluster_hash":"a8ba571e8304bff2","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-07","cluster_hash":"23c6b2f76b033d32","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-07","cluster_hash":"404cb023d2919d92","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-07","cluster_hash":"eee24c0d8381713c","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-07","cluster_hash":"4e0caac319859196","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-07","cluster_hash":"6daad2938b08c2eb","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-07","cluster_hash":"34ffc3a050bee581","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-07","cluster_hash":"4a02ca6a958cb287","rank":9,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":"A former CIA official defrauded taxpayers of $200 million by faking classified programs, directly impacting millions through lost public funds."}
