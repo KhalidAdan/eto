@@ -672,3 +672,12 @@
 {"run_id":"2026-10-07","cluster_hash":"6daad2938b08c2eb","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-07","cluster_hash":"34ffc3a050bee581","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-07","cluster_hash":"4a02ca6a958cb287","rank":9,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":"A former CIA official defrauded taxpayers of $200 million by faking classified programs, directly impacting millions through lost public funds."}
+{"run_id":"2026-10-08","cluster_hash":"47455d7f6bf69739","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-08","cluster_hash":"3f32286f2325bfc6","rank":2,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-08","cluster_hash":"0c7197742bc22eaa","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-08","cluster_hash":"2d6b2487f7fa9a56","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-08","cluster_hash":"5ce5e3b6718e2f87","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-08","cluster_hash":"91d8f6fce30c3c45","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-08","cluster_hash":"1e73f497c2697b60","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-08","cluster_hash":"c238ad8b267dde12","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-08","cluster_hash":"00c1c0dbd6e3966e","rank":9,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Measles outbreak in Pennsylvania threatens public health, with the largest U.S. outbreak in 35 years risking hospitalizations and long-term immunity gaps."}
