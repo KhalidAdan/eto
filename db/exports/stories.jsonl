@@ -681,3 +681,12 @@
 {"run_id":"2026-10-08","cluster_hash":"1e73f497c2697b60","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-08","cluster_hash":"c238ad8b267dde12","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-08","cluster_hash":"00c1c0dbd6e3966e","rank":9,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Measles outbreak in Pennsylvania threatens public health, with the largest U.S. outbreak in 35 years risking hospitalizations and long-term immunity gaps."}
+{"run_id":"2026-10-09","cluster_hash":"36705566bd7ba252","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-09","cluster_hash":"9ed76e7ad4914c3c","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-09","cluster_hash":"17bdf2e27e83de39","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-09","cluster_hash":"f636fed87257a18e","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-09","cluster_hash":"8d0fb87ca1cbb8c1","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-09","cluster_hash":"eb6e3890e751a81d","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-09","cluster_hash":"e8d55fdafdcc1f7e","rank":7,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-09","cluster_hash":"e003a073dd08b43b","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-09","cluster_hash":"bd1b317391157bf8","rank":9,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":"The death of Maricarmen, an 87-year-old Spanish pensioner whose eviction sparked nationwide protests, highlights systemic housing inequality and its devastating impact on vulnerable populations."}
