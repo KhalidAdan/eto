@@ -699,3 +699,12 @@
 {"run_id":"2026-10-10","cluster_hash":"55872b83944fb263","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-10","cluster_hash":"c14d197de29c7148","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-10","cluster_hash":"fa5818c45cc31f46","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Russian strikes and approaching winter force some in Kyiv to pack bags and flee, displacing thousands and endangering lives amid escalating conflict."}
+{"run_id":"2026-10-11","cluster_hash":"301835854bd4b8cb","rank":1,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-11","cluster_hash":"6b2f27cb878e217f","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-11","cluster_hash":"06710e6fa94f2c47","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-11","cluster_hash":"2d9b87b6f9f8de0d","rank":4,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-11","cluster_hash":"a7bf23011fb15675","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-11","cluster_hash":"02e82cc76c44b5b1","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-11","cluster_hash":"52f6e725c94228a7","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-11","cluster_hash":"2e25eaa791e7e99f","rank":8,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-11","cluster_hash":"d6cf3b363ef62646","rank":9,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"A federal judge's ruling blocks the DOJ's plan to collect state voter rolls, threatening election integrity and access to voting for millions."}
