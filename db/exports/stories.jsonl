@@ -717,3 +717,12 @@
 {"run_id":"2026-10-12","cluster_hash":"b5204552e0974a1c","rank":7,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-12","cluster_hash":"544d72b7b76d89fc","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-12","cluster_hash":"c45baa30605b7e3a","rank":9,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"At least 139 people dead after boat capsizes off Djibouti, U.N. Says (massive loss of life impacting families and highlighting unsafe migration conditions)"}
+{"run_id":"2026-10-13","cluster_hash":"03643636178a5e26","rank":1,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
+{"run_id":"2026-10-13","cluster_hash":"0365b18b2dfa6aa3","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-13","cluster_hash":"670cb0fcf8947d6c","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-13","cluster_hash":"d31f0e737c27dfde","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-13","cluster_hash":"729c6372458ccef4","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-13","cluster_hash":"4e89ff584993a991","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-13","cluster_hash":"362899c16dda441c","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-13","cluster_hash":"bf456bcb74ad3b3a","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-13","cluster_hash":"55ce21bc3bfdd828","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack disrupts food access for thousands."}
