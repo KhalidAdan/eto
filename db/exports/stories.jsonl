@@ -726,3 +726,12 @@
 {"run_id":"2026-10-13","cluster_hash":"362899c16dda441c","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-13","cluster_hash":"bf456bcb74ad3b3a","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-13","cluster_hash":"55ce21bc3bfdd828","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Hundreds of supermarkets in France hit by ‘unprecedented’ cyberattack disrupts food access for thousands."}
+{"run_id":"2026-10-14","cluster_hash":"278732de9046772a","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-14","cluster_hash":"fc12b49a2a06a883","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-14","cluster_hash":"d3749d684f1326ae","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-14","cluster_hash":"2bd1ac3cd4cc2eb8","rank":4,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-14","cluster_hash":"c27f75bd69a2e7f4","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-14","cluster_hash":"9544f884eeb2919c","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-14","cluster_hash":"6f2786bb05ae357c","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-14","cluster_hash":"a9425b2eea9f1e30","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-14","cluster_hash":"bc91d594f3284760","rank":9,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Cyberattack disrupts food supply chains, risking hunger and safety for thousands of shoppers in France."}
