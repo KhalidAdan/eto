@@ -735,3 +735,12 @@
 {"run_id":"2026-10-14","cluster_hash":"6f2786bb05ae357c","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-14","cluster_hash":"a9425b2eea9f1e30","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-14","cluster_hash":"bc91d594f3284760","rank":9,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Cyberattack disrupts food supply chains, risking hunger and safety for thousands of shoppers in France."}
+{"run_id":"2026-10-15","cluster_hash":"9bdf694a267a769e","rank":1,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-15","cluster_hash":"0fde9b43c034e2ab","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-15","cluster_hash":"bf9afbdf5ae40fdd","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-15","cluster_hash":"9caa09f9a1ce6f62","rank":4,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-15","cluster_hash":"d5e34ce9adceba1a","rank":5,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-15","cluster_hash":"b90013cf1b6fab26","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-15","cluster_hash":"0cb904ee72c9f47d","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-15","cluster_hash":"9708bbdf27bf8166","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-15","cluster_hash":"2f47423135d55e4d","rank":9,"balance_note":"No source labeled center or lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Massive breach of Republican voter and donor data threatens election integrity and personal privacy for thousands."}
