@@ -744,3 +744,12 @@
 {"run_id":"2026-10-15","cluster_hash":"0cb904ee72c9f47d","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-15","cluster_hash":"9708bbdf27bf8166","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-15","cluster_hash":"2f47423135d55e4d","rank":9,"balance_note":"No source labeled center or lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Massive breach of Republican voter and donor data threatens election integrity and personal privacy for thousands."}
+{"run_id":"2026-10-16","cluster_hash":"26d832e0b2942091","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-16","cluster_hash":"5c2826fdfa8181d3","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-16","cluster_hash":"ec780cad82268166","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-16","cluster_hash":"ecb5ef882c4ba142","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-16","cluster_hash":"f4d4e50fda860f0d","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-16","cluster_hash":"53ff34b5c0ec9f40","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-16","cluster_hash":"41b735c439e6b8c4","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-16","cluster_hash":"9351a3a51c90c11e","rank":8,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-16","cluster_hash":"431f18eee03724c5","rank":9,"balance_note":"No source labeled center or lean-left or left covered this story.","status":"published","reason":null,"fold_reason":"Nine Major Banks ‘Denied, Debanked, and Discriminated Against’ Conservatives, Trump Admin Probe Finds"}
