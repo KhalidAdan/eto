@@ -771,3 +771,12 @@
 {"run_id":"2026-10-18","cluster_hash":"c9c83bdf0ee21634","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-18","cluster_hash":"eaeb34f1bc7658cc","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-18","cluster_hash":"4bf4656e95ea0b62","rank":9,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Southern California wildfires force evacuations, displacing residents and threatening homes amid escalating climate-driven disasters."}
+{"run_id":"2026-10-19","cluster_hash":"cf5d41d72fa7241e","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-19","cluster_hash":"780bbf0089d91e98","rank":2,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-19","cluster_hash":"9ec0fbc94f77f464","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-19","cluster_hash":"513596d7daa6fdac","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-19","cluster_hash":"c3625a6967107d46","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-19","cluster_hash":"f1678230fdab37a0","rank":6,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-19","cluster_hash":"ea20eecaa601c144","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-19","cluster_hash":"4c2f64d90a4a9ba3","rank":8,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-19","cluster_hash":"e7ea3401692965b1","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Funding shortages force World Food Programme to cut aid to Gaza, endangering food security for hundreds of thousands."}
