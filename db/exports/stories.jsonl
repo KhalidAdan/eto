@@ -798,3 +798,12 @@
 {"run_id":"2026-10-21","cluster_hash":"42eb0667c11be770","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-21","cluster_hash":"594687334a60630e","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-21","cluster_hash":"f3ecd28609fb0847","rank":9,"balance_note":"No source labeled center or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Gaza children face worsening food shortages as prices rise and aid is cut, threatening their health and survival."}
+{"run_id":"2026-10-22","cluster_hash":"86474b3e1d2e29ef","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-22","cluster_hash":"dd2ab6792331a0ad","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-22","cluster_hash":"570b76c88086c2b8","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-22","cluster_hash":"8f455be04011d24e","rank":4,"balance_note":"No source labeled left covered this story.","status":"dropped","reason":"failed verification: quote not found in any account: \"claimed france was being 'conquered, looted, and burned to t\"; quote not found in any account: \"made unsubstantiated claims that muslim migrants are respons\"","fold_reason":null}
+{"run_id":"2026-10-22","cluster_hash":"8c65056800989af0","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-22","cluster_hash":"8f52d876e7c2c33a","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-22","cluster_hash":"ec494485dd7d3461","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-22","cluster_hash":"bdb7e17c92eaa9c2","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-22","cluster_hash":"889ed753f04eb689","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Rising electricity bills force 1 in 5 Americans to cut back on food, survey finds"}
