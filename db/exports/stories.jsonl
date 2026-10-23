@@ -807,3 +807,12 @@
 {"run_id":"2026-10-22","cluster_hash":"ec494485dd7d3461","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-22","cluster_hash":"bdb7e17c92eaa9c2","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-22","cluster_hash":"889ed753f04eb689","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Rising electricity bills force 1 in 5 Americans to cut back on food, survey finds"}
+{"run_id":"2026-10-23","cluster_hash":"456f82f720c86abe","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-23","cluster_hash":"a795cc6f18df6ed4","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-23","cluster_hash":"24a60743eca5d7cb","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-23","cluster_hash":"df13bd4137453a47","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-23","cluster_hash":"6a67f6a2e7861f07","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-23","cluster_hash":"343e1bf8a8c30057","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-23","cluster_hash":"2ff4b44085b17ce3","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-23","cluster_hash":"a7aeefe072c17f63","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-23","cluster_hash":"f0cc328f9a454b07","rank":9,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Barclays cutting 5,000 jobs as AI reshapes workforce, displacing thousands in financial sector."}
