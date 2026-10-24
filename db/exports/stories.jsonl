@@ -816,3 +816,12 @@
 {"run_id":"2026-10-23","cluster_hash":"2ff4b44085b17ce3","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-23","cluster_hash":"a7aeefe072c17f63","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-23","cluster_hash":"f0cc328f9a454b07","rank":9,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Barclays cutting 5,000 jobs as AI reshapes workforce, displacing thousands in financial sector."}
+{"run_id":"2026-10-24","cluster_hash":"b9f3a79951f1e479","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-24","cluster_hash":"6a45b6557d900b43","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-24","cluster_hash":"8c79a756a842cbc4","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-24","cluster_hash":"ba8d22608ae30f94","rank":4,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-24","cluster_hash":"034ea5c90a9814b6","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-24","cluster_hash":"4bd263ae48e14c5d","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-24","cluster_hash":"feee8fd44852fa06","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-24","cluster_hash":"e6ee4aab7eae564f","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-24","cluster_hash":"8a42c3f284f05d79","rank":9,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Missile strikes in Kyiv endanger civilians, escalating humanitarian crisis and risking further escalation in the war."}
