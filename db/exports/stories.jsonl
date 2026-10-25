@@ -825,3 +825,12 @@
 {"run_id":"2026-10-24","cluster_hash":"feee8fd44852fa06","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-24","cluster_hash":"e6ee4aab7eae564f","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-24","cluster_hash":"8a42c3f284f05d79","rank":9,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Missile strikes in Kyiv endanger civilians, escalating humanitarian crisis and risking further escalation in the war."}
+{"run_id":"2026-10-25","cluster_hash":"78fd61616ea668d4","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-25","cluster_hash":"7d2ef0446129829c","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-25","cluster_hash":"9f08c25162ad7f82","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-25","cluster_hash":"0829810d88d56dc0","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-25","cluster_hash":"ccfc1ea8d71dbc71","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-25","cluster_hash":"a9bfd4bfeb2c673e","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-25","cluster_hash":"53b053c667b65493","rank":7,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-25","cluster_hash":"f9e719999a76fc03","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-25","cluster_hash":"f908208ee8207959","rank":9,"balance_note":"No source labeled center or lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels, risking hospital collapse and mass suffering."}
