@@ -852,3 +852,12 @@
 {"run_id":"2026-10-27","cluster_hash":"5f79a563c8d480e4","rank":7,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-27","cluster_hash":"f641630d583a7681","rank":8,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-27","cluster_hash":"2e73e8f72999ded6","rank":9,"balance_note":"No source labeled center or lean-left or left covered this story.","status":"published","reason":null,"fold_reason":"NYPD ignored nearly 10,000 ICE detainers, risking the detention of undocumented immigrants without proper legal process."}
+{"run_id":"2026-10-28","cluster_hash":"c0e5765cfcd9cbce","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-28","cluster_hash":"fe6c3fe3ac3b9954","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-28","cluster_hash":"6c998d627494d5bb","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-28","cluster_hash":"3a828effa9e3936c","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-28","cluster_hash":"7c9438f2b9170e75","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-28","cluster_hash":"e7cdf70a6e5e9987","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-28","cluster_hash":"9acecfe6dc7461de","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-28","cluster_hash":"aeecb7b1613732ff","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-28","cluster_hash":"66c9ce53c75789ba","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Hospital beds for the nation's sickest kids are disappearing | The Hospitals Treating America’s Heartland Are in Danger of Closing"}
