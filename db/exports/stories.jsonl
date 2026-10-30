@@ -870,3 +870,12 @@
 {"run_id":"2026-10-29","cluster_hash":"e27f1f3e0277111d","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-29","cluster_hash":"b7282821dac38e0c","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-29","cluster_hash":"6488e28f2813f7a8","rank":9,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":"A fire at a South Carolina nuclear site poses immediate risks of radiation leaks, endangering public health and safety for thousands."}
+{"run_id":"2026-10-30","cluster_hash":"ebf24442a4f4b45d","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-30","cluster_hash":"1f46588fffd690dd","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-30","cluster_hash":"416d8d200fe7661d","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-30","cluster_hash":"325448d591ee630f","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-30","cluster_hash":"ebdd83dc875a441a","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-30","cluster_hash":"fccfde9805b3276c","rank":6,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-30","cluster_hash":"5154f0930828ca53","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-30","cluster_hash":"dcbb006be2657809","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-30","cluster_hash":"12bd76bc38dbd585","rank":9,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":"Federal judge blocks Trump’s Medicaid rule, protecting millions from being denied coverage based on outdated medical criteria."}
