@@ -879,3 +879,12 @@
 {"run_id":"2026-10-30","cluster_hash":"5154f0930828ca53","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-30","cluster_hash":"dcbb006be2657809","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-30","cluster_hash":"12bd76bc38dbd585","rank":9,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":"Federal judge blocks Trump’s Medicaid rule, protecting millions from being denied coverage based on outdated medical criteria."}
+{"run_id":"2026-10-31","cluster_hash":"8824d37ef00ba567","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-31","cluster_hash":"cff070a5439b6c37","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-31","cluster_hash":"afcd740e27a1cd6a","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-31","cluster_hash":"6e5ae58e7090eb0c","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-31","cluster_hash":"08505e8fa4a15423","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-31","cluster_hash":"902c5f2107f790d8","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-31","cluster_hash":"38c841cf7189f435","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-31","cluster_hash":"ce090f58fdfcc480","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-10-31","cluster_hash":"6f7eece616e67b7f","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Treasury report reveals Iran's economy is in crisis with 90% inflation, crippling daily life for millions."}
