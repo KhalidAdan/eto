@@ -888,3 +888,12 @@
 {"run_id":"2026-10-31","cluster_hash":"38c841cf7189f435","rank":7,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-31","cluster_hash":"ce090f58fdfcc480","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-10-31","cluster_hash":"6f7eece616e67b7f","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Treasury report reveals Iran's economy is in crisis with 90% inflation, crippling daily life for millions."}
+{"run_id":"2026-11-01","cluster_hash":"0579f45c1b70e61f","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-01","cluster_hash":"08e7e4b6ee1abf3e","rank":2,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-01","cluster_hash":"41e59574e3b998f8","rank":3,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-01","cluster_hash":"881a2aac7e521311","rank":4,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-01","cluster_hash":"3bdb75afe98be20a","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-01","cluster_hash":"b593559e1262f31d","rank":6,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-01","cluster_hash":"16962e58d50ef25f","rank":7,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-01","cluster_hash":"35f2a972d72cbb63","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-01","cluster_hash":"0c2bc414a53a3084","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Over 5,000 deaths from Ebola in DR Congo's deadliest outbreak highlight a public health crisis undermining healthcare access and destabilizing communities."}
