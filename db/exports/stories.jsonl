@@ -933,3 +933,12 @@
 {"run_id":"2026-11-08","cluster_hash":"a63c0002a583a680","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-08","cluster_hash":"6ecb2ae403b367c2","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-08","cluster_hash":"0565233267b15329","rank":9,"balance_note":"No source labeled center or lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"New Jersey town's $26M theft undermines public trust and threatens essential services as mayor delayed disclosure until after the election."}
+{"run_id":"2026-11-09","cluster_hash":"e1594d977051275c","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-09","cluster_hash":"77fb55384846849a","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-09","cluster_hash":"7d5606a63206968b","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-09","cluster_hash":"fbc6feaa3d703570","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-09","cluster_hash":"c0f3f83e47be5e71","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-09","cluster_hash":"47bd111e4e16f965","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-09","cluster_hash":"4be1d1d5306b9658","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-09","cluster_hash":"79fbbe5ee126dfe9","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-09","cluster_hash":"63a81157b3767edb","rank":9,"balance_note":"No source labeled lean-left or lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Airstrikes in Yemen kill over 50 people in 24 hours, escalating civilian casualties and destabilizing the region."}
