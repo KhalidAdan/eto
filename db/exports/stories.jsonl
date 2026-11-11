@@ -951,3 +951,12 @@
 {"run_id":"2026-11-10","cluster_hash":"48546b18416eb4a1","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"dropped","reason":"failed verification: quote not found in any account: \"partially examined and interpreted\"","fold_reason":null}
 {"run_id":"2026-11-10","cluster_hash":"ddd77d71a37aebbd","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-10","cluster_hash":"d13a2f9c21dfb274","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"FDA warns of rare vision-loss side effect from GLP-1 drugs, risking public health for millions using weight-loss medications."}
+{"run_id":"2026-11-11","cluster_hash":"d807bd02b68ec849","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-11","cluster_hash":"e86b609605f11e1d","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-11","cluster_hash":"cb77e338ad08b054","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-11","cluster_hash":"6d6b7fb9f053d5a3","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-11","cluster_hash":"db857a9600ee9901","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-11","cluster_hash":"63380af3e329defb","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-11","cluster_hash":"162e94e0421f1331","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-11","cluster_hash":"0f1ca6077edc11bd","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-11","cluster_hash":"14c678a892c753a3","rank":9,"balance_note":"No source labeled center or lean-left or lean-right or left covered this story.","status":"published","reason":null,"fold_reason":"Potential halt of executions in Tennessee due to legal challenges over lethal drug supplier's retaliation fears, impacting prisoners' rights and the death penalty system."}
