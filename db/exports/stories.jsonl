@@ -969,3 +969,12 @@
 {"run_id":"2026-11-12","cluster_hash":"a45c8e3d78e94ff8","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-12","cluster_hash":"f321e64bd6c67058","rank":8,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-12","cluster_hash":"61fe886f5844d8fa","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"published","reason":null,"fold_reason":"Israeli strike on Gaza hospital kills 6 people, health authorities say"}
+{"run_id":"2026-11-13","cluster_hash":"a4179c7f0de892ed","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-13","cluster_hash":"9ae403438094c543","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-13","cluster_hash":"deddb910a68fd11a","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-13","cluster_hash":"66dbd800337b06df","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-13","cluster_hash":"61f0d24ff72c91c3","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-13","cluster_hash":"fedcb439cf413348","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-13","cluster_hash":"92c568917d3e1a6f","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-13","cluster_hash":"cfd70b7c30f9ef57","rank":8,"balance_note":"No source labeled center covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-13","cluster_hash":"5250da62e4addb80","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon, worsening acute food insecurity and threatening basic rights for thousands."}
