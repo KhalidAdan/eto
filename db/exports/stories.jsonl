@@ -978,3 +978,12 @@
 {"run_id":"2026-11-13","cluster_hash":"92c568917d3e1a6f","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-13","cluster_hash":"cfd70b7c30f9ef57","rank":8,"balance_note":"No source labeled center covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-13","cluster_hash":"5250da62e4addb80","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon, worsening acute food insecurity and threatening basic rights for thousands."}
+{"run_id":"2026-11-14","cluster_hash":"ef38a3d9fc7c8093","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-14","cluster_hash":"8e49fd306db2ad82","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-14","cluster_hash":"1a97567a1995fd7f","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-14","cluster_hash":"7911f33d65c7510b","rank":4,"balance_note":"No source labeled right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-14","cluster_hash":"fa328c4f5a174776","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-14","cluster_hash":"8dff0e722e3058fa","rank":6,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-14","cluster_hash":"3a8b91863efd7564","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-14","cluster_hash":"1e1baaf28014f12c","rank":8,"balance_note":"No source labeled center or lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-14","cluster_hash":"6d3855b294eb47da","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"At least six people killed in a Gaza hospital strike, with a U.S.-made missile used, causing immediate humanitarian crisis and long-term health and safety impacts for thousands."}
