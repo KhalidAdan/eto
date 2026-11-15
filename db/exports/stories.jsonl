@@ -987,3 +987,12 @@
 {"run_id":"2026-11-14","cluster_hash":"3a8b91863efd7564","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-14","cluster_hash":"1e1baaf28014f12c","rank":8,"balance_note":"No source labeled center or lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-14","cluster_hash":"6d3855b294eb47da","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"At least six people killed in a Gaza hospital strike, with a U.S.-made missile used, causing immediate humanitarian crisis and long-term health and safety impacts for thousands."}
+{"run_id":"2026-11-15","cluster_hash":"aa56558ebd7b3510","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-15","cluster_hash":"84c3921eb841e128","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-15","cluster_hash":"26758e4b65fe43cd","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-15","cluster_hash":"288e26dd094443ac","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-15","cluster_hash":"7dc7fbeea3aa3eff","rank":5,"balance_note":"No source labeled center or lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-15","cluster_hash":"03f74f7aaeb0b61a","rank":6,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-15","cluster_hash":"237ce59a32b02f6e","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-15","cluster_hash":"acee923248b5066e","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-15","cluster_hash":"60c476fe082ddce3","rank":9,"balance_note":"No source labeled center or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Eight people killed in NYC building collapse highlight critical safety failures in urban infrastructure, endangering residents and demanding urgent regulatory reforms."}
