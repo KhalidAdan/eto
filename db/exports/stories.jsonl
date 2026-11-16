@@ -996,3 +996,12 @@
 {"run_id":"2026-11-15","cluster_hash":"237ce59a32b02f6e","rank":7,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-15","cluster_hash":"acee923248b5066e","rank":8,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-15","cluster_hash":"60c476fe082ddce3","rank":9,"balance_note":"No source labeled center or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Eight people killed in NYC building collapse highlight critical safety failures in urban infrastructure, endangering residents and demanding urgent regulatory reforms."}
+{"run_id":"2026-11-16","cluster_hash":"ee515fa55735a490","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-16","cluster_hash":"a39582ddc39aa783","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-16","cluster_hash":"5681e9b6932ae836","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-16","cluster_hash":"618b0b84d125253a","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-16","cluster_hash":"3c242ac47a0ec90f","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-16","cluster_hash":"3510c71c02f0f25b","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-16","cluster_hash":"c4e6fb1ba70adc97","rank":7,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-16","cluster_hash":"818932434fb71267","rank":8,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-16","cluster_hash":"b9441dfbb6695599","rank":9,"balance_note":"No source labeled lean-left or lean-right or left covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Loss of 40 Amazon satellites in rocket failure could disrupt global communication, navigation, and data services reliant on the constellation."}
