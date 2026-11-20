@@ -1032,3 +1032,12 @@
 {"run_id":"2026-11-19","cluster_hash":"b4dfa7e4ca34e45d","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-19","cluster_hash":"4417a2f77921524d","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-19","cluster_hash":"15ad58cec6fefb24","rank":9,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"published","reason":null,"fold_reason":"Ukraine's strike on the Kerch bridge disrupts Russian military supply lines, potentially altering the course of the war in Crimea and threatening regional stability."}
+{"run_id":"2026-11-20","cluster_hash":"1e9ec513131f1988","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-20","cluster_hash":"b482c8035da4b551","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-20","cluster_hash":"e72b5fd110e40267","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-20","cluster_hash":"4ee37f3c1c1443a8","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-20","cluster_hash":"96a605d14ac148c5","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-20","cluster_hash":"e1bd584f0084a92f","rank":6,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-20","cluster_hash":"9eb5fd3a6baff3e5","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-20","cluster_hash":"42d0bd3a94032605","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-20","cluster_hash":"3fcc94193ca0b155","rank":9,"balance_note":null,"status":"published","reason":null,"fold_reason":"Nvidia's halt of China AI chip shipments sparks national security concerns, disrupting global tech supply chains and escalating U.S.-China tech tensions."}
