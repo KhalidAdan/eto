@@ -1041,3 +1041,12 @@
 {"run_id":"2026-11-20","cluster_hash":"9eb5fd3a6baff3e5","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-20","cluster_hash":"42d0bd3a94032605","rank":8,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-20","cluster_hash":"3fcc94193ca0b155","rank":9,"balance_note":null,"status":"published","reason":null,"fold_reason":"Nvidia's halt of China AI chip shipments sparks national security concerns, disrupting global tech supply chains and escalating U.S.-China tech tensions."}
+{"run_id":"2026-11-21","cluster_hash":"96c944e86785401c","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-21","cluster_hash":"bc9feb5567cedfbd","rank":2,"balance_note":null,"status":"dropped","reason":"draft malformed after two attempts","fold_reason":null}
+{"run_id":"2026-11-21","cluster_hash":"92618efff53cef8d","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-21","cluster_hash":"33bb12c042522d25","rank":4,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-21","cluster_hash":"e0836919af9d9f9f","rank":5,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-21","cluster_hash":"92c423b6c830896e","rank":6,"balance_note":"No source labeled lean-left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-21","cluster_hash":"7c47b391f9184985","rank":7,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-21","cluster_hash":"9f46be40c36d04b9","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-21","cluster_hash":"251bc22116025089","rank":9,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":"Russia's retaliatory barrage on Kyiv bridges threatens civilian safety and disrupts Ukraine's infrastructure, escalating regional conflict with far-reaching consequences."}
