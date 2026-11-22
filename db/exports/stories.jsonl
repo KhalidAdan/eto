@@ -1050,3 +1050,12 @@
 {"run_id":"2026-11-21","cluster_hash":"7c47b391f9184985","rank":7,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-21","cluster_hash":"9f46be40c36d04b9","rank":8,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-21","cluster_hash":"251bc22116025089","rank":9,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":"Russia's retaliatory barrage on Kyiv bridges threatens civilian safety and disrupts Ukraine's infrastructure, escalating regional conflict with far-reaching consequences."}
+{"run_id":"2026-11-22","cluster_hash":"4a3886d7a7468a05","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-22","cluster_hash":"d157d4c263658074","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-22","cluster_hash":"f199a21409b8da04","rank":3,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-22","cluster_hash":"53f8344b581b3fc5","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-22","cluster_hash":"a3abc632ab96d010","rank":5,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-22","cluster_hash":"ae47911fec728acc","rank":6,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-22","cluster_hash":"6876e84a7ce6e208","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-22","cluster_hash":"b87f7bfc86586797","rank":8,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"dropped","reason":"failed verification: quote not found in any account: \"exploiting for a propaganda spectacle\"","fold_reason":null}
+{"run_id":"2026-11-22","cluster_hash":"d03855b2548b785c","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"At least 24 dead after boat carrying mourners capsizes in Nigeria, highlighting a tragic safety failure with immediate loss of life and community impact."}
