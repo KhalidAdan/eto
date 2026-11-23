@@ -1059,3 +1059,12 @@
 {"run_id":"2026-11-22","cluster_hash":"6876e84a7ce6e208","rank":7,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-22","cluster_hash":"b87f7bfc86586797","rank":8,"balance_note":"No source labeled lean-left or lean-right covered this story.","status":"dropped","reason":"failed verification: quote not found in any account: \"exploiting for a propaganda spectacle\"","fold_reason":null}
 {"run_id":"2026-11-22","cluster_hash":"d03855b2548b785c","rank":9,"balance_note":"No source labeled lean-right or left or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"At least 24 dead after boat carrying mourners capsizes in Nigeria, highlighting a tragic safety failure with immediate loss of life and community impact."}
+{"run_id":"2026-11-23","cluster_hash":"cf05d54aec60ba20","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-23","cluster_hash":"d0d92c869c1da04b","rank":2,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-23","cluster_hash":"9c1c9d3f87fd4cb8","rank":3,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-23","cluster_hash":"34719f6a979e1608","rank":4,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-23","cluster_hash":"671f4b8d46fae14e","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-23","cluster_hash":"884198c24e6ee5a2","rank":6,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-23","cluster_hash":"353a9402473364c1","rank":7,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-23","cluster_hash":"57162f3e75021be9","rank":8,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-23","cluster_hash":"d3277d38cad0cbac","rank":9,"balance_note":"No source labeled center or lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Israeli air strikes create toxic wasteland in Gaza, endangering health and safety of thousands."}
