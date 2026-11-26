@@ -1086,3 +1086,12 @@
 {"run_id":"2026-11-25","cluster_hash":"96d1c58f4550fdd4","rank":7,"balance_note":"No source labeled lean-right or left covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-25","cluster_hash":"3cee0f041b7d509d","rank":8,"balance_note":"No source labeled center covered this story.","status":"published","reason":null,"fold_reason":null}
 {"run_id":"2026-11-25","cluster_hash":"44107512bcd3cc7b","rank":9,"balance_note":"No source labeled lean-left or lean-right or right covered this story.","status":"dropped","reason":"fewer than 2 fetched accounts (1)","fold_reason":"Meningitis epidemic strikes Gaza as infections surge among infants, threatening public health and straining already fragile healthcare systems."}
+{"run_id":"2026-11-26","cluster_hash":"789ffcbb3ea7332a","rank":1,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-26","cluster_hash":"54beed82ddac5692","rank":2,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-26","cluster_hash":"673985cbc6c90adc","rank":3,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-26","cluster_hash":"21d76c5f5a9cb8c3","rank":4,"balance_note":"No source labeled left or right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-26","cluster_hash":"d2278e83e4f8f0ec","rank":5,"balance_note":null,"status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-26","cluster_hash":"dee9d10f4f3afa9f","rank":6,"balance_note":"No source labeled lean-right covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-26","cluster_hash":"7151e2952f01ed49","rank":7,"balance_note":"No source labeled left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-26","cluster_hash":"d69f3f0f67c392b1","rank":8,"balance_note":"No source labeled lean-left or left covered this story.","status":"published","reason":null,"fold_reason":null}
+{"run_id":"2026-11-26","cluster_hash":"5fe2139666fef805","rank":9,"balance_note":"No source labeled lean-right or right covered this story.","status":"published","reason":null,"fold_reason":"Meningitis epidemic in Gaza threatens infant health, risking widespread suffering and long-term care needs for thousands of families."}
